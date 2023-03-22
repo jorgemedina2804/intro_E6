@@ -8,4 +8,4 @@
   - María Angélica Rejas Núñez
   - Alexandra Juneth Cordero Donaire
   - Alonso Bryan Castañeda Moron
-  - Leonardo Sebastián 
+  - Leonardo Sebastián Sandoval Carranza
