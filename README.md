@@ -7,5 +7,5 @@
   - Fabricio Nava Castañeda
   - María Angélica Rejas Núñez
   - Alexandra Juneth Cordero Donaire
-  - Alonso Bryan Castañeda Moron
+  - Alonso Bryan Castañeda Moron: Estudiante de Ing. Biomédica interesado en Ing. Clinica. Neurociencia, además del área de Señales e Imágenes
   - Leonardo Sebastián Sandoval Carranza
