@@ -1,6 +1,6 @@
 # intro_E6
 
-- Señal de interés: 
+- Señal de interés: electromiograma 
 
 - Colaboradores:
   - María Cristina Orihuela Flores
