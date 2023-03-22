@@ -5,4 +5,5 @@
 - Colaboradores:
   - María Cristina Orihuela Flores
   - Fabricio Nava Castañeda
-  - Leonardo Sebastian Sandoval Carranza
+  - María Angélica Rejas Núñez
+  - Alexandra Juneth Cordero Donaire
