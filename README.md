@@ -7,3 +7,4 @@
   - Fabricio Nava Castañeda
   - María Angélica Rejas Núñez
   - Alexandra Juneth Cordero Donaire
+  - Alonso Bryan Castañeda Moron
