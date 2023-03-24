@@ -7,8 +7,6 @@
 
 ![Imagen de intro](https://www.example.com/cat.jpg)
 
-```python
-print("Python")
 
 - Señal de interés: electromiograma 
 
@@ -19,3 +17,7 @@ print("Python")
   - Alexandra Juneth Cordero Donaire:Estudiante de octavo ciclo ,interasada en el rumbo de caracterizacion de materiales e ingenieria clinica.
   - Alonso Bryan Castañeda Moron: :Estudiante de octavo ciclo ,interasado en ingenieria clinica.
   - Leonardo Sebastián Sandoval Carranza: Estudiante de séptimo ciclo de Ingeniería Biomédica interesada en el área de Señales e imagenes biomedicas.
+
+
+```python
+print("Python")
