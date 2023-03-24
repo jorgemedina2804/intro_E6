@@ -7,7 +7,8 @@
 
 ![Imagen de intro](https://www.example.com/cat.jpg)
 
-
+```python
+print("Python")
 
 - Señal de interés: electromiograma 
 
