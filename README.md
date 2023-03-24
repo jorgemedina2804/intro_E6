@@ -2,6 +2,7 @@
 ## Proyecto: ANALISIS DE SEÑALES DE ELECTROMIOGRAMA
 
 Estudiantes de Ingeniería Biomédica
+
 Descripcion del curso:Desarrollo y analiza el tratamiento de señales provenientes de dispositivos medicos relacionados a sistemas fisiologicos con el fin de crear simulaciones.
 
 - Señal de interés: electromiograma 
