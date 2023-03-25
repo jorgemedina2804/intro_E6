@@ -50,5 +50,5 @@ Es aquella señal medida y controlada en los seres biológicos.
   -  José Alonso Cáceres - jo.alonsok@gmail.com
   -  Julissa Venancio - julissa.venancio@upch.pe
 
-´´´ python
-print("Hola, Biomédicos")
+```python
+print("Hola, Biomédicos :D")
