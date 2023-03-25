@@ -9,6 +9,7 @@
 
 ## Tabla de contenidos:
 * **¿Qué es una bioseñal?**
+Es aquella señal medida y controlada en los seres biológicos.
 
 * **Materiales**
 
