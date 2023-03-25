@@ -5,7 +5,7 @@
 
 -**Descripcion del curso**:Desarrollo y analisis del tratamiento de señales provenientes de dispositivos medicos relacionados a sistemas fisiologicos con el fin de crear simulaciones.
 
-![Imagen de intro](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR7WGkQFSgig3hnPiYDQ3gN4waqTK7J7UFyTrSb0A0zt0QGUj2P)
+![Imagen de intro](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ya1d0H7YLeihci8A-LiSkSsiT-c08azerg&usqp=CAU)
 
 
 - Señal de interés: electromiograma 
