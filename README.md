@@ -8,7 +8,7 @@
 ![Imagen de intro](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ya1d0H7YLeihci8A-LiSkSsiT-c08azerg&usqp=CAU)
 
 ## Tabla de contenidos:
-* [¿Qué es una bioseñal?](bioseñal)
+* [¿Qué es una bioseñal?](#bioseñal)
 Es aquella señal medida y controlada en los seres biológicos.
 
 * [Materiales](materials)
@@ -35,5 +35,5 @@ Es aquella señal medida y controlada en los seres biológicos.
   
 * **Señal de interés:** electromiograma 
 
-
+# bioseñal
 ```python
