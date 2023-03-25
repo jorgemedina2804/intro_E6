@@ -1,4 +1,4 @@
- (https://www.google.com/url?sa=i&url=https%3A%2F%2Fpe.linkedin.com%2Fin%2Fulewis&psig=AOvVaw2ccmE87IRXlN0PUCNrMUiX&ust=1679793751486000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKjs_MX19f0CFQAAAAAdAAAAABAD)
+ (https://media.licdn.com/dms/image/C4E03AQFnFs1niQHMRw/profile-displayphoto-shrink_800_800/0/1627264556114?e=2147483647&v=beta&t=oPFpqOP5NUUiemycM0esL7hid5fqdjK-dK2gnEUOpnA)
   -  Lewis De La Cruz - umbert.de.la.cruz@upch.pe
   -  Moises Meza - moises.meza@upch.pe
   -  José Alonso Cáceres - jo.alonsok@gmail.com
