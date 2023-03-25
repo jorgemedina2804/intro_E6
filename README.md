@@ -10,15 +10,15 @@
 ## Tabla de contenidos:
 * [¿Qué es una bioseñal?](https://github.com/MariaRejas/intro_E6/blob/main/README.md#qu%C3%A9-es-una-biose%C3%B1al)
 
-* [Materiales](##materiales)
+* [Materiales](https://github.com/MariaRejas/intro_E6/blob/main/README.md#materiales)
 
-* [Metodología](https://github.com/MariaRejas/intro_E6/blob/main/README.md#participantes)
+* [Metodología]()
 
 * [Temática del proyecto](##temáticadelproyecto)
 
 * [Contenido del curso](##contenido del curso)
 
-* [Participantes](##participantes)
+* [Participantes](https://github.com/MariaRejas/intro_E6/blob/main/README.md#participantes)
   
 * [Docentes del curso](##docentes)
   
