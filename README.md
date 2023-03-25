@@ -1,5 +1,5 @@
-# Bienvenidos al repositorio del Grupo 6 del curso : "Introduccion a Señales Biomedicas"
-## Proyecto: ANALISIS DE SEÑALES DE ELECTROMIOGRAMA
+# Bienvenidos al repositorio del Grupo 6 del curso : "Introducción a Señales Biomédicas"
+## Proyecto: ANÁLISIS DE SEÑALES DE ELECTROMIOGRAMA
 
 #### *Proyecto realizado por estudiantes de la carrera de Ingeniería Biomédica*
 
