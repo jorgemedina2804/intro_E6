@@ -11,15 +11,15 @@
 * [¿Qué es una bioseñal?](bioseñal)
 Es aquella señal medida y controlada en los seres biológicos.
 
-* **Materiales**
+* [Materiales](materials)
 
-* **Metodología**
+* [Metodología](metodology)
 
-* **Temática del proyecto**
+* [Temática del proyecto](temática)
 
-* **Contenido del curso**
+* [Contenido del curso](contenido_curso)
 
-* **Participantes**
+* [Participantes](participantes)
   - María Cristina Orihuela Flores: Estudiante de séptimo ciclo de Ingeniería Biomédica interesada en el área de Ingeniería de Tejidos y biomateriales (colaboradora) - maria.orihuela@upch.pe
   - Fabricio Nava Castañeda: Interesado principalmente en las área de Biomecánica y Rehabilitación (colaborador) - fabricio.nava@upch.pe
   - María Angélica Rejas Núñez: Estudiante interesada en el área de Ingeniería de Biomecánica y Rehabilitación (colaboradora) - maria.rejas@upch.pe
@@ -27,7 +27,7 @@ Es aquella señal medida y controlada en los seres biológicos.
   - Alonso Bryan Castañeda Moron: :Estudiante de octavo ciclo ,interasado en ingenieria clinica (colaborador) - alonso.castaneda@upch.pe
   - Leonardo Sebastián Sandoval Carranza: Estudiante de séptimo ciclo de Ingeniería Biomédica interesada en el área de Señales e imagenes biomedicas (colaborador) - 
   
-* **Docentes del curso**
+* [Docentes del curso](docentes)
   -  Lewis De La Cruz - umbert.de.la.cruz@upch.pe
   -  Moises Meza - moises.meza@upch.pe
   -  José Alonso Cáceres - jo.alonsok@gmail.com
