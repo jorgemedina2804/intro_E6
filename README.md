@@ -8,8 +8,7 @@
 ![Imagen de intro](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ya1d0H7YLeihci8A-LiSkSsiT-c08azerg&usqp=CAU)
 
 ## Tabla de contenidos:
-* [¿Qué es una bioseñal?](##bioseñal)
-Es aquella señal medida y controlada en los seres biológicos.
+* [¿Qué es una bioseñal?](https://github.com/MariaRejas/intro_E6/blob/main/README.md#qu%C3%A9-es-una-biose%C3%B1al)
 
 * [Materiales](##materiales)
 
@@ -27,6 +26,7 @@ Es aquella señal medida y controlada en los seres biológicos.
 
 
 ## ¿Qué es una bioseñal?
+Es aquella señal medida y controlada en los seres biológicos.
 
 ## Materiales
 
