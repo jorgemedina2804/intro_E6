@@ -12,7 +12,7 @@
 
 * [Materiales](https://github.com/MariaRejas/intro_E6/blob/main/README.md#materiales)
 
-* [Metodología]()
+* [Metodología](https://github.com/MariaRejas/intro_E6/blob/main/README.md#metodolog%C3%ADa)
 
 * [Temática del proyecto](##temáticadelproyecto)
 
