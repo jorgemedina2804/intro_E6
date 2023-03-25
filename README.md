@@ -7,6 +7,8 @@
 
 ![Imagen de intro](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ya1d0H7YLeihci8A-LiSkSsiT-c08azerg&usqp=CAU)
 
+![Imagen 2](https://www.modernheartandvascular.com/wp-content/uploads/2022/10/ELECTROCARDIOGRAMA.png)
+
 ## Tabla de contenidos:
 * [¿Qué es una bioseñal?](https://github.com/MariaRejas/intro_E6/blob/main/README.md#qu%C3%A9-es-una-biose%C3%B1al)
 
