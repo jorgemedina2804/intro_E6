@@ -11,29 +11,43 @@
 * [¿Qué es una bioseñal?](#bioseñal)
 Es aquella señal medida y controlada en los seres biológicos.
 
-* [Materiales](materials)
+* [Materiales](#materiales)
 
-* [Metodología](metodology)
+* [Metodología](#metodologia)
 
-* [Temática del proyecto](temática)
+* [Temática del proyecto](#temática del proyecto)
 
-* [Contenido del curso](contenido_curso)
+* [Contenido del curso](#contenido del curso)
 
-* [Participantes](participantes.md)
+* [Participantes](#participantes)
+  
+* [Docentes del curso](#docentes)
+  
+* **Señal de interés:** electromiograma 
+
+
+## ¿Qué es una bioseñal?
+
+## Materiales
+
+## Metodología
+
+## Temática del Proyecto
+
+## Contenido del Curso
+
+## Participantes
   - María Cristina Orihuela Flores: Estudiante de séptimo ciclo de Ingeniería Biomédica interesada en el área de Ingeniería de Tejidos y biomateriales (colaboradora) - maria.orihuela@upch.pe
   - Fabricio Nava Castañeda: Interesado principalmente en las área de Biomecánica y Rehabilitación (colaborador) - fabricio.nava@upch.pe
   - María Angélica Rejas Núñez: Estudiante interesada en el área de Ingeniería de Biomecánica y Rehabilitación (colaboradora) - maria.rejas@upch.pe
   - Alexandra Juneth Cordero Donaire:Estudiante de octavo ciclo ,interasada en el rumbo de caracterizacion de materiales e ingenieria clinica (colaboradora) - 
   - Alonso Bryan Castañeda Moron: :Estudiante de octavo ciclo ,interasado en ingenieria clinica (colaborador) - alonso.castaneda@upch.pe
   - Leonardo Sebastián Sandoval Carranza: Estudiante de séptimo ciclo de Ingeniería Biomédica interesada en el área de Señales e imagenes biomedicas (colaborador) - 
-  
-* [Docentes del curso](docentes.md)
+
+## Docentes
   -  Lewis De La Cruz - umbert.de.la.cruz@upch.pe
   -  Moises Meza - moises.meza@upch.pe
   -  José Alonso Cáceres - jo.alonsok@gmail.com
   -  Julissa Venancio - julissa.venancio@upch.pe
-  
-* **Señal de interés:** electromiograma 
 
-# bioseñal
 ```python
