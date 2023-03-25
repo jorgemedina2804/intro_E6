@@ -3,7 +3,7 @@
 
 #### *Proyecto realizado por estudiantes de la carrera de Ingeniería Biomédica*
 
--**Descripcion del curso**:Desarrollo y analisis del tratamiento de señales provenientes de dispositivos medicos relacionados a sistemas fisiologicos con el fin de crear simulaciones.
+-**Descripcion del curso**: Desarrollo y analisis del tratamiento de señales provenientes de dispositivos medicos relacionados a sistemas fisiologicos con el fin de crear simulaciones.
 
 ![Imagen de intro](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ya1d0H7YLeihci8A-LiSkSsiT-c08azerg&usqp=CAU)
 
