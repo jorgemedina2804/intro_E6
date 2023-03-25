@@ -20,7 +20,7 @@
 
 * [Participantes](https://github.com/MariaRejas/intro_E6/blob/main/README.md#participantes)
   
-* [Docentes del curso]()
+* [Docentes del curso](https://github.com/MariaRejas/intro_E6/blob/main/README.md#docentes)
   
 * **Señal de interés:** electromiograma 
 
