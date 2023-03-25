@@ -16,11 +16,11 @@
 
 * [Temática del proyecto](https://github.com/MariaRejas/intro_E6/blob/main/README.md#tem%C3%A1tica-del-proyecto)
 
-* [Contenido del curso](##contenido del curso)
+* [Contenido del curso](https://github.com/MariaRejas/intro_E6/blob/main/README.md#contenido-del-curso)
 
 * [Participantes](https://github.com/MariaRejas/intro_E6/blob/main/README.md#participantes)
   
-* [Docentes del curso](##docentes)
+* [Docentes del curso]()
   
 * **Señal de interés:** electromiograma 
 
