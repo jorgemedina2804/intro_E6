@@ -8,20 +8,20 @@
 ![Imagen de intro](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ya1d0H7YLeihci8A-LiSkSsiT-c08azerg&usqp=CAU)
 
 ## Tabla de contenidos:
-* [¿Qué es una bioseñal?](#bioseñal)
+* [¿Qué es una bioseñal?](##bioseñal)
 Es aquella señal medida y controlada en los seres biológicos.
 
-* [Materiales](#materiales)
+* [Materiales](##materiales)
 
-* [Metodología](#metodologia)
+* [Metodología](##metodologia)
 
-* [Temática del proyecto](#temática del proyecto)
+* [Temática del proyecto](##temáticadelproyecto)
 
-* [Contenido del curso](#contenido del curso)
+* [Contenido del curso](##contenido del curso)
 
-* [Participantes](#participantes)
+* [Participantes](##participantes)
   
-* [Docentes del curso](#docentes)
+* [Docentes del curso](##docentes)
   
 * **Señal de interés:** electromiograma 
 
