@@ -14,7 +14,7 @@
 
 * [Metodología](https://github.com/MariaRejas/intro_E6/blob/main/README.md#metodolog%C3%ADa)
 
-* [Temática del proyecto](##temáticadelproyecto)
+* [Temática del proyecto](https://github.com/MariaRejas/intro_E6/blob/main/README.md#tem%C3%A1tica-del-proyecto)
 
 * [Contenido del curso](##contenido del curso)
 
