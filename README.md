@@ -13,7 +13,7 @@ Es aquella señal medida y controlada en los seres biológicos.
 
 * [Materiales](##materiales)
 
-* [Metodología](##metodologia)
+* [Metodología](## Metodología)
 
 * [Temática del proyecto](##temáticadelproyecto)
 
