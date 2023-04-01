@@ -1,7 +1,7 @@
 # Bienvenidos al repositorio del Grupo 6 del curso : "Introducción a Señales Biomédicas"
 ## Proyecto: ANÁLISIS DE SEÑALES DE ELECTROMIOGRAMA
 
-#### *Proyecto realizado por estudiantes de la carrera de Ingeniería Biomédica*
+#### *Proyecto realizado por estudiantes de la carrera de Ingeniería Biomédica en el semestre 2023-1*
 
 -**Descripcion del curso**: Desarrollo y analisis del tratamiento de señales provenientes de dispositivos medicos relacionados a sistemas fisiologicos con el fin de crear simulaciones.
 
