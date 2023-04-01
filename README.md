@@ -2,6 +2,7 @@
 ## Proyecto: ANÁLISIS DE SEÑALES DE ELECTROMIOGRAMA
 
 #### *Proyecto realizado por estudiantes de la carrera de Ingeniería Biomédica en el semestre 2023-1*
+[![Whats-App-Image-2023-03-29-at-19-41-08.jpg](https://i.postimg.cc/Njm7463m/Whats-App-Image-2023-03-29-at-19-41-08.jpg)](https://postimg.cc/K1cMcMv8)
 
 -**Descripcion del curso**: Desarrollo y analisis del tratamiento de señales provenientes de dispositivos medicos relacionados a sistemas fisiologicos con el fin de crear simulaciones.
 
