@@ -65,6 +65,7 @@ Es aquella señal medida y controlada en los seres biológicos.
   - Leonardo Sebastián Sandoval Carranza: Estudiante de séptimo ciclo de Ingeniería Biomédica interesado en el área de Señales e imagenes biomedicas (colaborador) - leonardo.sandoval@upch.pe
   <p align="center">
     <img width="150" height="200" src="https://web.whatsapp.com/74137b42-4612-4316-bb3b-bfdd15142a75">
+    </p>
 ## Docentes
   -  Lewis De La Cruz - umbert.de.la.cruz@upch.pe
   -  Moises Meza - moises.meza@upch.pe
