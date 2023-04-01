@@ -55,7 +55,9 @@ Es aquella señal medida y controlada en los seres biológicos.
   </p>
 
   - Alexandra Juneth Cordero Donaire:Estudiante de octavo ciclo ,interasada en el rumbo de caracterizacion de materiales e ingenieria clinica (colaboradora) - alexsandra.cordero@upch.pe
-  
+   <p align="center">
+    <img width="150" height="200" src="[https://i.postimg.cc/VNDJz5yd/foto.png](https://postimg.cc/18CTzDPm/295db0e6)">
+  </p>
   - Alonso Bryan Castañeda Moron: :Estudiante de octavo ciclo ,interasado en ingenieria clinica (colaborador) - alonso.castaneda@upch.pe
   
   - Leonardo Sebastián Sandoval Carranza: Estudiante de séptimo ciclo de Ingeniería Biomédica interesada en el área de Señales e imagenes biomedicas (colaborador) - leonardo.sandoval@upch.pe
