@@ -9,9 +9,11 @@
 
 -**Descripcion del curso**: Desarrollo y analisis del tratamiento de señales provenientes de dispositivos medicos relacionados a sistemas fisiologicos con el fin de crear simulaciones.
 
-![Imagen de intro](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ya1d0H7YLeihci8A-LiSkSsiT-c08azerg&usqp=CAU)
+<p align="center">
+  <img width="220" height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ya1d0H7YLeihci8A-LiSkSsiT-c08azerg&usqp=CAU">
+  <img width="220" height="100" src="https://www.my-ekg.com/imag/sindrome-coronario-agudo.png">
+ </p>
 
-![Imagen 2](https://www.my-ekg.com/imag/sindrome-coronario-agudo.png)
 
 ## Tabla de contenidos:
 * [¿Qué es una bioseñal?](https://github.com/MariaRejas/intro_E6/blob/main/README.md#qu%C3%A9-es-una-biose%C3%B1al)
