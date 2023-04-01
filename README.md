@@ -46,7 +46,9 @@ Es aquella señal medida y controlada en los seres biológicos.
 
 ## Participantes
   - María Cristina Orihuela Flores: Estudiante de séptimo ciclo de Ingeniería Biomédica interesada en el área de Ingeniería de Tejidos y biomateriales (colaboradora) - maria.orihuela@upch.pe
-  
+  <p align="center">
+    <img width="150" height="200" src="https://i.postimg.cc/j5qn0PLW/cris.png">
+  </p>
   - Fabricio Nava Castañeda: Interesado principalmente en las área de Biomecánica y Rehabilitación (colaborador) - fabricio.nava@upch.pe
   
   - María Angélica Rejas Núñez: Estudiante interesada en el área de Ingeniería de Biomecánica y Rehabilitación (colaboradora) - maria.rejas@upch.pe
@@ -56,7 +58,7 @@ Es aquella señal medida y controlada en los seres biológicos.
 
   - Alexandra Juneth Cordero Donaire:Estudiante de octavo ciclo ,interasada en el rumbo de caracterizacion de materiales e ingenieria clinica (colaboradora) - alexsandra.cordero@upch.pe
    <p align="center">
-    <img width="150" height="200" src="[https://i.postimg.cc/VNDJz5yd/foto.png](https://postimg.cc/18CTzDPm/295db0e6)">
+    <img width="200" height="400" src="https://i.postimg.cc/1zsZJKjq/Imagen1.png">
   </p>
   - Alonso Bryan Castañeda Moron: :Estudiante de octavo ciclo ,interasado en ingenieria clinica (colaborador) - alonso.castaneda@upch.pe
   
