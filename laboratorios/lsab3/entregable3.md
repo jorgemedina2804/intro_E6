@@ -72,7 +72,7 @@ En la prueba 2 se tomo señales del reposo y contracción del biceps, teniendo l
 </div>
 
 ### **Archivos** <a name="id7"></a>
-- [Documentos (.txt)](https://github.com/Grupo2-IntroduccionSenalesMedicas/S_biomedica/tree/main/Documentos/BiTalino)
+- [Documentos (.txt)](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/lsab3/Se%C3%B1al%20EMG%20Lab1.txt)
 - [Programa de ploteo (Jupyter Notebook)](https://github.com/Grupo2-IntroduccionSenalesMedicas/S_biomedica/blob/main/Programaci%C3%B3n/Laboratorio%203/SignalPlot.ipynb)
 ### **Ploteo de la señal en Python** <a name="id8"></a>
 <p align="justify">
