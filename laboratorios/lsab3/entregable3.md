@@ -50,8 +50,8 @@ El siguiente procedimiento consiste en colocar los electrodos EMG en el usuario 
 <p align="justify">
 En la prueba 1 se tomo señales del reposo y contracción del dedo pulgar, teniendo la conexión de tierra en el dorso de la mano.<br>
 </p>
-<p align="center"><img src="https://i.postimg.cc/vZNzVyXM/equipos-solo.png" width="400" height="400"></p>
-
+<p align="center"><img src="https://i.postimg.cc/kMYzy0T1/Whats-App-Image-2023-04-05-at-12-04-45-PM.jpg" width="400" height="400"></p> 
+<p align="center"><img src="https://i.postimg.cc/bN2C9sDr/equipo-texto.png" width="500" height="500"></p>
 <div align="center">
 
 [<img src="https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png" width="20%" height="20%">](https://www.youtube.com/playlist?list=PLZDUFkiHuQKhex5qfmNXrVl5pFNnRhcRX)
