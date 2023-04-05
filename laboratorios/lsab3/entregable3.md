@@ -6,10 +6,10 @@
 2. [Materiales y equipos](#id2)
 3. [Resultados](#id3)\
      3.1 [Conexión usada](#id4)\
-     3.2 [Video de la señal](#id5)\
-     3.3 [Ploteo de la señal en OpenSignal](#id6)\
-     3.4 [Archivos](#id7)\
-     3.5 [Ploteo de la señal en Python](#id8)
+     3.2 [Video de la señal y Ploteo de la señal en OpenSignal](#id5)\
+     3.3 [Archivos](#id7)\
+     3.4 [Ploteo de la señal en Python](#id8)
+    
 
 
 
