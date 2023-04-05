@@ -48,7 +48,7 @@ El siguiente procedimiento consiste en colocar los electrodos EMG en el usuario 
 ### PRUEBA 1 <br>
 
 <p align="justify">
-En la prueba 1 se tomo señales del reposo y contracción del dedo pulgar, teniendo la conexión de tierra en el dorso de la mano.<br>
+En la prueba 1 se tomo la señal de reposo del nervio mediano .<br>
 </p>
 <p align="center"><img src="https://i.postimg.cc/kMYzy0T1/Whats-App-Image-2023-04-05-at-12-04-45-PM.jpg" width="400" height="400"></p> 
 <p align="center"><img src="https://i.postimg.cc/bN2C9sDr/equipo-texto.png" width="500" height="500"></p>
@@ -61,7 +61,7 @@ En la prueba 1 se tomo señales del reposo y contracción del dedo pulgar, tenie
 ### PRUEBA 2 <br>
 
 <p align="justify">
-En la prueba 2 se tomo señales del reposo y contracción del biceps, teniendo la conexión de tierra a la altura de la muñeca.<br>
+En la prueba 2 se tomo la señal de contracción del biceps, teniendo la conexión de tierra a la altura de la muñeca.<br>
 </p>
 <p align="center"><img src="https://i.postimg.cc/pTf8dMp2/pu-o.png" width="400" height="300"></p>
 
@@ -76,12 +76,12 @@ En la prueba 2 se tomo señales del reposo y contracción del biceps, teniendo l
 - [Programa de ploteo en python](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/lsab3/se%C3%B1allab3.py)
 ### **Ploteo de la señal en Python** <a name="id8"></a>
 <p align="justify">
-La primera prueba se realizo en estado de reposo.
+La primera prueba se realizo en estado de reposo,la cual dura un total de X segundos.Esto se puede observar en la grafica
 </p>
 - Señal sin movimiento:
 <p align="center"><img src="/Imagenes/Bitalino/EMG_Python_dedo_contrafuerza.jpg" width="800" height="500"></p>
 
-La segunda prueba se realizó con la contraccion maxima del puño cerrado.
+La segunda prueba se realizó con la contraccion maxima del puño cerrado,la cual dura un total de X segundos.Esto se puede observar en la grafica
 </p>
 - Señal maxima obtenida del movimiento puño cerrado:
 <p align="center"><img src="/Imagenes/Bitalino/EMG_Python_biceps_contraccion.jpg" width="800" height="500"></p>
