@@ -50,6 +50,9 @@ Es aquella señal medida y controlada en los seres biológicos.
     <img width="150" height="200" src="https://i.postimg.cc/j5qn0PLW/cris.png">
   </p>
   - Fabricio Nava Castañeda: Interesado principalmente en las área de Biomecánica y Rehabilitación (colaborador) - fabricio.nava@upch.pe
+  <p align="center">
+    <img width="150" height="200" src="https://i.postimg.cc/rwhCq50t/Whats-App-Image-2023-04-04-at-20-58-57.jpg">
+  </p>
   
   - María Angélica Rejas Núñez: Estudiante interesada en el área de Ingeniería de Biomecánica y Rehabilitación (colaboradora) - maria.rejas@upch.pe
   <p align="center">
@@ -62,6 +65,9 @@ Es aquella señal medida y controlada en los seres biológicos.
   </p>
   
   - Alonso Bryan Castañeda Moron: :Estudiante de octavo ciclo ,interasado en ingenieria clinica (colaborador) - alonso.castaneda@upch.pe
+  <p align="center">
+    <img width="150" height="200" src="https://i.postimg.cc/WzQwcVhY/Whats-App-Image-2023-04-04-at-20-58-13.jpg">
+  </p>
   
   - Leonardo Sebastián Sandoval Carranza: Estudiante de séptimo ciclo de Ingeniería Biomédica interesado en el área de Señales e imagenes biomedicas (colaborador) - leonardo.sandoval@upch.pe
     <p align="center">
