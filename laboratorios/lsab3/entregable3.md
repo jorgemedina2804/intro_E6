@@ -10,8 +10,7 @@
      3.3 [Archivos](#id7)\
      3.4 [Ploteo de la señal en Python](#id8)
     
-# **Concepto**
-Técnica del estudio de conducción nerviosa motora del nervio mediano
+# **Técnica del estudio de conducción nerviosa motora del nervio mediano**
 El siguiente es el procedimiento para el estudio de conducción nerviosa motora del nervio mediano 
 
 *Electrodos de registro*
