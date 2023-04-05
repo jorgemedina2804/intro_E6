@@ -63,7 +63,7 @@ En la prueba 1 se tomo señales del reposo y contracción del dedo pulgar, tenie
 <p align="justify">
 En la prueba 2 se tomo señales del reposo y contracción del biceps, teniendo la conexión de tierra a la altura de la muñeca.<br>
 </p>
-<p align="center"><img src="/Imagenes/Bitalino/electrodos_brazo1.png" width="400" height="300"></p>
+<p align="center"><img src="https://i.postimg.cc/pTf8dMp2/pu-o.png" width="400" height="300"></p>
 
 <div align="center">
 
