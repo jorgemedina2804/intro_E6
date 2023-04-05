@@ -73,7 +73,7 @@ En la prueba 2 se tomo señales del reposo y contracción del biceps, teniendo l
 
 ### **Archivos** <a name="id7"></a>
 - [Documentos (.txt)](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/lsab3/Se%C3%B1al%20EMG%20Lab1.txt)
-- [Programa de ploteo (Jupyter Notebook)](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/lsab3/se%C3%B1allab3.py)
+- [Programa de ploteo en python](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/lsab3/se%C3%B1allab3.py)
 ### **Ploteo de la señal en Python** <a name="id8"></a>
 <p align="justify">
 La primera prueba se realizo con el dedo pulgar en el cuál se tomaron muestras del dedo en reposo, contra fuerza y en posición de pinza con el dedo índice.
