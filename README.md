@@ -58,13 +58,14 @@ Es aquella señal medida y controlada en los seres biológicos.
 
   - Alexandra Juneth Cordero Donaire:Estudiante de octavo ciclo ,interasada en el rumbo de caracterizacion de materiales e ingenieria clinica (colaboradora) - alexsandra.cordero@upch.pe
    <p align="center">
-    <img width="200" height="400" src="https://i.postimg.cc/1zsZJKjq/Imagen1.png">
+    <img width="150" height="200" src="https://i.postimg.cc/XqMrVYk5/Imagen1.png">
   </p>
+  
   - Alonso Bryan Castañeda Moron: :Estudiante de octavo ciclo ,interasado en ingenieria clinica (colaborador) - alonso.castaneda@upch.pe
   
   - Leonardo Sebastián Sandoval Carranza: Estudiante de séptimo ciclo de Ingeniería Biomédica interesado en el área de Señales e imagenes biomedicas (colaborador) - leonardo.sandoval@upch.pe
-     <p align="center">
-  [![Whats-App-Image-2023-02-12-at-3-14-04-AM-1.png](https://i.postimg.cc/ryNj0h0w/Whats-App-Image-2023-02-12-at-3-14-04-AM-1.png)](https://postimg.cc/DmmLRPP9)
+    <p align="center">
+      <img width="150" height="200" src="https://i.postimg.cc/ryNj0h0w/Whats-App-Image-2023-02-12-at-3-14-04-AM-1.png">
     </p>
 ## Docentes
   -  Lewis De La Cruz - umbert.de.la.cruz@upch.pe
