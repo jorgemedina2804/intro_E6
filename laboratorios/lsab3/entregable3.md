@@ -76,23 +76,15 @@ En la prueba 2 se tomo señales del reposo y contracción del biceps, teniendo l
 - [Programa de ploteo en python](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/lsab3/se%C3%B1allab3.py)
 ### **Ploteo de la señal en Python** <a name="id8"></a>
 <p align="justify">
-La primera prueba se realizo con el dedo pulgar en el cuál se tomaron muestras del dedo en reposo, contra fuerza y en posición de pinza con el dedo índice.
+La primera prueba se realizo en estado de reposo.
 </p>
-- Señal de dedo con contrafuerza:
+- Señal sin movimiento:
 <p align="center"><img src="/Imagenes/Bitalino/EMG_Python_dedo_contrafuerza.jpg" width="800" height="500"></p>
-- Señal de dedo en posición de pinza:
-<p align="center"><img src="/Imagenes/Bitalino/EMG_Python_dedo_pinza.jpg" width="800" height="500"></p>
 
-En la segunda prueba se realizó con el biceps del brazo el cual se sometio a contra fuerza y contracción máxima.
+La segunda prueba se realizó con la contraccion maxima del puño cerrado.
 </p>
-- Señal de biceps en contracción:
+- Señal maxima obtenida del movimiento puño cerrado:
 <p align="center"><img src="/Imagenes/Bitalino/EMG_Python_biceps_contraccion.jpg" width="800" height="500"></p>
-- Señal de biceps con contrafuerza:
-<p align="center"><img src="/Imagenes/Bitalino/EMG_Python_biceps_contrafuerza.jpg" width="800" height="500"></p>
 
-En la tercera prueba, el usuario estuvo en posición sentado y parado, y de las dos formas se sometió a contracción el músculo gastrocnemio.
-</p>
-- Señal de contracción del gastrocnemio en posición parado:
-<p align="center"><img src="/Imagenes/Bitalino/EMG_Python_pantorrilla_parado.jpg" width="800" height="500"></p>
-- Señal de contracción del gastrocnemio en posición sentado:
-<p align="center"><img src="/Imagenes/Bitalino/EMG_Python_pantorrilla_sentado.jpg" width="800" height="500"></p>
+
+
