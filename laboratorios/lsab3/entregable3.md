@@ -10,7 +10,22 @@
      3.3 [Archivos](#id7)\
      3.4 [Ploteo de la señal en Python](#id8)
     
+# **Concepto**
+Técnica del estudio de conducción nerviosa motora del nervio mediano
+El siguiente es el procedimiento para el estudio de conducción nerviosa motora del nervio mediano 
 
+*Electrodos de registro*
+- Electrodo activo (G1): Colocar sobre el centro del músculo abductor corto del pulgar (ACP), un tercio de la distancia entre el pliegue carpo metacarpiano y la articulación metacarpo falángica del pulgar (1er dedo).
+- Electrodo de referencia (G2): Colocar sobre la articulación metacarpo falángico del primer dedo, distal al electrodo activo.
+- Electrodo tierra: Colocado en el dorso de la mano.
+
+*Electrodos de estímulo*
+- Distal: Colocar a nivel de la muñeca proximal al electrodo activo entre los tendones de los músculos flexores radiales del carpo y palmar mayor.
+- Proximal: Colocar sobre la arteria braquial (pulso braquial) en el codo, entre el tendón del músculo bíceps braquial y el epicóndilo medial.
+
+ *Mediciones*
+- Distancias, latencias y amplitudes de todos los lugares (distal y proximal) evaluados.
+- Velocidad de conducción entre la muñeca y el codo.
 
 
 ## **Objetivos** <a name="id1"></a>
