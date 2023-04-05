@@ -49,7 +49,7 @@ Es aquella señal medida y controlada en los seres biológicos.
   <p align="center">
     <img width="150" height="200" src="https://i.postimg.cc/j5qn0PLW/cris.png">
   </p>
-  - Fabricio Nava Castañeda: Interesado principalmente en las área de Biomecánica y Rehabilitación (colaborador) - fabricio.nava@upch.pe
+  - Fabricio Nava Castañeda: Estudiante de séptimo ciclo de la carrera de Ingeniería Biompedica. Interesado principalmente en las área de Biomecánica y Rehabilitación (colaborador) - fabricio.nava@upch.pe
   <p align="center">
     <img width="150" height="200" src="https://i.postimg.cc/rwhCq50t/Whats-App-Image-2023-04-04-at-20-58-57.jpg">
   </p>
