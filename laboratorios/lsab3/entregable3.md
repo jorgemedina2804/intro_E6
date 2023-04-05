@@ -32,14 +32,14 @@
 </div>
 
 <p align="justify">
-<p align="center"><img src="/Imagenes/Bitalino/working1.jpeg" width="400" height="266"></p>
+<p align="center"><img src="https://i.postimg.cc/XNmdLX3Z/equipos.png" width="400" height="266"></p>
 </p>
 
 ## **RESULTADOS** <a name="id3"></a>
 ### **Conexión usada** <a name="id4"></a>
 Se utilizó la conexión EMG en la placa Bitalino utilizando el sensor EMG de 3 electrodos como se muestra a continuación.
 <p align="justify">
-<p align="center"><img src="/Imagenes/Bitalino/bit-con2.jpg" width="400" height="266"></p>
+<p align="center"><img src="https://i.postimg.cc/43WWwtJC/Whats-App-Image-2023-04-05-at-12-04-38-PM.jpg" width="400" height="266"></p>
 </p>
 
 El siguiente procedimiento consiste en colocar los electrodos EMG en el usuario de prueba. Para ello se utilizó la **Guía De Procedimiento de Electromiografía y velocidad de conducción de nervios periféricos** del año 2020 elaborada por el **Instituto Nacional del Niño de San Borja** para el Ministerio de Salud (MINSA).
@@ -50,7 +50,7 @@ El siguiente procedimiento consiste en colocar los electrodos EMG en el usuario 
 <p align="justify">
 En la prueba 1 se tomo señales del reposo y contracción del dedo pulgar, teniendo la conexión de tierra en el dorso de la mano.<br>
 </p>
-<p align="center"><img src="/Imagenes/Bitalino/electrodos_dedo1.png" width="400" height="300"></p>
+<p align="center"><img src="https://i.postimg.cc/vZNzVyXM/equipos-solo.png" width="400" height="400"></p>
 
 <div align="center">
 
