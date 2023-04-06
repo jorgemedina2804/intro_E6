@@ -50,7 +50,7 @@ En la prueba 1 se tomo la señal de reposo del nervio mediano .<br>
 </p>
 <p align="center"><img src="https://i.postimg.cc/kMYzy0T1/Whats-App-Image-2023-04-05-at-12-04-45-PM.jpg" width="400" height="350"></p> 
 <p align="center"><img src="https://i.postimg.cc/bN2C9sDr/equipo-texto.png" width="400" height="266"></p>
-En la siguiente figura se observa el ploteo de la señal en reposo en Opensignal
+En la siguiente figura se observa el ploteo de la señal en reposo en Opensignal.En este se puede observar que la señal no varía mucho y mas bien presenta ruido, esto principalmente a que la señal EMG de superficie no recibe unicamento los impulsos nerviosos. Asimismo, la señal en este caso mide las distancias, latencias y amplitudes entre los electrodos de estimulo proximal y distal, al no existir un desplazamiento la señal no varía. Por último, la señal tambien mide la velocidad de conducción entre la muñeca y el codo, entre ambos electrodos.
 </p>
 <p align="center"><img src="https://i.postimg.cc/NFQfY5yx/estado-reposo.png" width="400" height="266"></p>
 <div align="center">
@@ -67,7 +67,7 @@ En el siguiente icono se encuentra el link del video de la prueba 1.
 En la prueba 2 se tomo la señal de la conducción nerviosomotora del nervio mediano durante la contracción en forma de puño <br>
 </p>
 <p align="center"><img src="https://i.postimg.cc/xThD3X0F/pu-o.png" width="400" height="266"></p>
-En la siguiente figura se observa el ploteo de la señal de conduccion nerviosa motora del nervio mediano durante el movimiento puño cerrado en Opensignal
+En la siguiente figura se observa el ploteo de la señal de conduccion nerviosa motora del nervio mediano durante el movimiento puño cerrado en Opensignal. En este a diferencia de en la primera prueba si se puede observar una variación en las latencias y amplitudes de la señal ya que existe un movimiento por parte de la mano. Asimismo, las frecuencias en ambos casos no varían ya que las frecuencias a a las cuales se lleva a cabo la conducción nerviosa son constantes.
 </p>
 <p align="center"><img src="https://i.postimg.cc/Gt4g4js3/se-al-completa.png" width="1000" height="266"></p>
 <div align="center">
