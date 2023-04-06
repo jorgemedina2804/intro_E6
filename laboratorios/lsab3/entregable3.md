@@ -110,6 +110,7 @@ El siguiente es el procedimiento para el estudio de conducción nerviosa motora 
 La primera prueba se realizo en estado de reposo,la cual dura un total de X segundos.Esto se puede observar en la grafica.
 </p>
 - Señal sin movimiento:
+</p>
 Debido a que la señal era pequeña se amplio la imagen reduciendo la amplitud para observar mejor la señal.
 <p align="center"><img src="https://i.postimg.cc/zBdLvCnf/Whats-App-Image-2023-04-05-at-7-52-40-PM.jpg" width="800" height="500"></p>
 
