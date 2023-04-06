@@ -111,10 +111,10 @@ La primera prueba se realizo en estado de reposo,la cual dura un total de X segu
 </p>
 - Señal sin movimiento:
 </p>
-Debido a que la señal era pequeña se amplió la imagen reduciendo la amplitud para una mejor observación de la señal. En la figura se puede observar la reconstrucción de la señal en el tiempo a partir de 81000 muestras y de una frecuencia de muestreo de 1000 Hz. Se puede observar amplitudes parecidas, ya que corresponde a una señal sin movimiento.
+Debido a que la señal era pequeña se amplió la imagen reduciendo la amplitud para una mejor observación de la señal. Se puede observar amplitudes parecidas, ya que corresponde a una señal sin movimiento.
 <p align="center"><img src="https://i.postimg.cc/zBdLvCnf/Whats-App-Image-2023-04-05-at-7-52-40-PM.jpg" width="600" height="400"></p>
 
-La segunda prueba se realizó con la contraccion maxima del puño cerrado con una duración total de 81 segundos. Esto se puede observar en la grafica.
+La segunda prueba se realizó con la contraccion maxima del puño cerrado. En la figura se puede observar la reconstrucción de la señal en el tiempo a partir de 81000 muestras y de una frecuencia de muestreo de 1000 Hz, lo cual nos da una duración total de 81 segundos.
 </p>
 - Señal con picos máximos obtenidos del movimiento puño cerrado: Se oberva picos más altos de amplitud cuando se da el movimiento del puño cerrado, en la cual las unidades motoras se activan con mayor frecuencia.
 <p align="center"><img src="https://i.postimg.cc/LsTN8WhF/Whats-App-Image-2023-04-05-at-7-34-03-PM.jpg" width="600" height="400"></p>
