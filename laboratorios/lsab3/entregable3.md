@@ -107,7 +107,7 @@ El siguiente es el procedimiento para el estudio de conducción nerviosa motora 
 
 ### **Ploteo de la señal en Python** <a name="id8"></a>
 <p align="justify">
-La primera prueba se realizo en estado de reposo,la cual dura un total de X segundos. Esto se puede observar en la siguiente gráfica.
+La primera prueba se realizo en estado de reposo, la cual dura un total de 20 segundos. Esto se puede observar en la siguiente gráfica.
 </p>
 - Señal sin movimiento:
 </p>
@@ -119,6 +119,7 @@ La segunda prueba se realizó con la contraccion maxima del puño cerrado. En la
 - Señal con picos máximos obtenidos del movimiento puño cerrado: Se oberva picos más altos de amplitud cuando se da el movimiento del puño cerrado, en la cual las unidades motoras se activan con mayor frecuencia.
 <p align="center"><img src="https://i.postimg.cc/LsTN8WhF/Whats-App-Image-2023-04-05-at-7-34-03-PM.jpg" width="600" height="400"></p>
 </p>
+Al evaluar las señal con respecto a la frecuencia podemos detectar con mayor facilidad los picos máximos, que simbolizan la acción de cerrar la mano en un puño, minimizando el ruido propio de una señal biomédica. De modo que, nuestra primera medición se da en un rango de 50 a 75 Hz; mientras la segunda, de 112 a 125 Hz. Ambas con una magnitud cercana a -20 dB.
 <p align="center"><img src="https://i.postimg.cc/VvM7mkCD/Whats-App-Image-2023-04-05-at-7-34-19-PM.jpg" width="600" height="400"></p>
 
 
