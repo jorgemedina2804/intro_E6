@@ -1,13 +1,13 @@
 # Bienvenidos al repositorio del Grupo 6 del curso : "Introducción a Señales Biomédicas"
 ## Proyecto: ANÁLISIS DE SEÑALES DE ELECTROMIOGRAMA
 
-#### *Proyecto realizado por estudiantes de la carrera de Ingeniería Biomédica en el semestre 2023-1*
+#### *Proyecto realizado por estudiantes de la carrera de Ingeniería Biomédica, pertenecientes a las universidades Pontificia Universidad Católica del Perú (PUCP) y Universidad Peruana Cayetano Heredia (UPCH), en el semestre 2023-1*
 <p align="center">
   <img width="500" height="400" src="https://i.postimg.cc/Njm7463m/Whats-App-Image-2023-03-29-at-19-41-08.jpg">
 </p>
 
 
--**Descripcion del curso**: Desarrollo y analisis del tratamiento de señales provenientes de dispositivos medicos relacionados a sistemas fisiologicos con el fin de crear simulaciones.
+-**Descripcion del curso**: Desarrollo y analisis del tratamiento de señales provenientes de dispositivos médicos relacionados a sistemas fisiológicos con el fin de crear simulaciones.
 
 <p align="center">
   <img width="220" height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ya1d0H7YLeihci8A-LiSkSsiT-c08azerg&usqp=CAU">
@@ -34,9 +34,15 @@
 
 
 ## ¿Qué es una bioseñal?
-Es aquella señal medida y controlada en los seres biológicos.
+Es aquella señal medida y controlada en los seres biológicos, de muy bajo potencial eléctrico en orden de mV, sometidos a ruido, perjudicando su observación y presentación en el análisis médico del paciente. Como ejemplo de ella tenemos a la señal biomédica obtenida del corazón por medio de un electrocardiograma (ECG), la señal recibida por el electroencefalograma (EEG) que mide la actividad eléctrica en el cerebro por medio de electrodos colocados sobre el cuero cabelludo o un electromiograma (EMG), nuestra señal de estudio, que verifica la salud de los músculos y los nervios que controlan. De modo que, estas señales permiten informar si un órgano o sistema biomédico precisa ayuda en cuanto a su estado o situación, facilitando su diagnóstico y permitiendo el respectivo tratamiento.
+<p align="center">
+  <img width="200" height="400" src="https://my.clevelandclinic.org/-/scassets/images/org/health/articles/4825-electromyography">
+</p>
+
 
 ## Materiales
+Los materiales a usar en el curso son:
+
 
 ## Metodología
 
