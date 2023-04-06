@@ -64,7 +64,7 @@ Los materiales a usar en el curso son:
 ## Participantes
   - María Cristina Orihuela Flores: Estudiante de séptimo ciclo de Ingeniería Biomédica interesada en el área de Ingeniería de Tejidos y biomateriales (colaboradora) - maria.orihuela@upch.pe
   <p align="center">
-    <img width="150" height="200" src="https://i.postimg.cc/j5qn0PLW/cris.png">
+    <img width="150" height="200" src="https://i.postimg.cc/jjX8YGb5/Foto-Cristina-Orihuela.png">
   </p>
   
   - Fabricio Nava Castañeda: Estudiante de séptimo ciclo de la carrera de Ingeniería Biompedica. Interesado principalmente en las área de Biomecánica y Rehabilitación (colaborador) - fabricio.nava@upch.pe
