@@ -81,7 +81,7 @@ En el siguiente icono se encuentra el link del video de la prueba 2.
 
 ## **Resumen y explicación de la señal ploteada** <a name="id6"></a>
 ### Técnica del estudio de conducción nerviosa motora del nervio mediano
-El siguiente es el procedimiento para el estudio de conducción nerviosa motora del nervio mediano 
+El siguiente es el procedimiento para el estudio de conducción nerviosa motora del nervio mediano. 
 
 *Electrodos de registro*
 - Electrodo activo (G1): Colocar sobre el centro del músculo abductor corto del pulgar (ACP), un tercio de la distancia entre el pliegue carpo metacarpiano y la articulación metacarpo falángica del pulgar (1er dedo).
@@ -107,12 +107,13 @@ El siguiente es el procedimiento para el estudio de conducción nerviosa motora 
 
 ### **Ploteo de la señal en Python** <a name="id8"></a>
 <p align="justify">
-La primera prueba se realizo en estado de reposo,la cual dura un total de X segundos.Esto se puede observar en la grafica
+La primera prueba se realizo en estado de reposo,la cual dura un total de X segundos.Esto se puede observar en la grafica.
 </p>
 - Señal sin movimiento:
-<p align="center"><img src="/Imagenes/Bitalino/EMG_Python_dedo_contrafuerza.jpg" width="800" height="500"></p>
+Debido a que la señal era pequeña se amplio la imagen reduciendo la amplitud para observar mejor la señal.
+<p align="center"><img src="https://i.postimg.cc/zBdLvCnf/Whats-App-Image-2023-04-05-at-7-52-40-PM.jpg" width="800" height="500"></p>
 
-La segunda prueba se realizó con la contraccion maxima del puño cerrado,la cual dura un total de 81 segundos.Esto se puede observar en la grafica
+La segunda prueba se realizó con la contraccion maxima del puño cerrado,la cual dura un total de 81 segundos.Esto se puede observar en la grafica.
 </p>
 - Señal maxima obtenida del movimiento puño cerrado:
 <p align="center"><img src="https://i.postimg.cc/LsTN8WhF/Whats-App-Image-2023-04-05-at-7-34-03-PM.jpg" width="800" height="500"></p>
