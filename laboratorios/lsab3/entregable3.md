@@ -50,7 +50,7 @@ En la prueba 1 se tomo la señal de reposo del nervio mediano .<br>
 </p>
 <p align="center"><img src="https://i.postimg.cc/kMYzy0T1/Whats-App-Image-2023-04-05-at-12-04-45-PM.jpg" width="400" height="350"></p> 
 <p align="center"><img src="https://i.postimg.cc/bN2C9sDr/equipo-texto.png" width="400" height="266"></p>
-En la siguiente figura se observa el ploteo de la señal en reposo en Opensignal. En este se puede observar que la señal no varía mucho y mas bien presenta ruido, esto principalmente a que la señal EMG de superficie no recibe unicamente los impulsos nerviosos. Asimismo, la señal en este caso mide las distancias y amplitudes entre los electrodos de estimulo proximal y distal, al no existir un desplazamiento la señal no varía. Por último, la señal tambien mide la velocidad de conducción entre la muñeca y el codo, entre ambos electrodos.
+En la siguiente figura se observa el ploteo de la señal en reposo en Opensignal. En este se puede observar que la señal no varía mucho y mas bien presenta ruido, esto principalmente a que la señal EMG de superficie recibe los impulsos de varias unidades motoras. Asimismo, la señal en este caso mide las distancias y amplitudes entre los electrodos de estimulo proximal y distal, al no existir un desplazamiento la señal no varía. Por último, la señal tambien mide la velocidad de conducción entre la muñeca y el codo, entre ambos electrodos.
 </p>
 <p align="center"><img src="https://i.postimg.cc/NFQfY5yx/estado-reposo.png" width="400" height="266"></p>
 <div align="center">
@@ -107,16 +107,16 @@ El siguiente es el procedimiento para el estudio de conducción nerviosa motora 
 
 ### **Ploteo de la señal en Python** <a name="id8"></a>
 <p align="justify">
-La primera prueba se realizo en estado de reposo,la cual dura un total de X segundos. Esto se puede observar en la grafica.
+La primera prueba se realizo en estado de reposo,la cual dura un total de X segundos. Esto se puede observar en la siguiente gráfica.
 </p>
 - Señal sin movimiento:
 </p>
-Debido a que la señal era pequeña se amplió la imagen reduciendo la amplitud para observar mejor la señal.
+Debido a que la señal era pequeña se amplió la imagen reduciendo la amplitud para una mejor observación de la señal. En la figura se puede observar la reconstrucción de la señal en el tiempo a partir de muestras y de una frecuencia de muestreo de 1000 Hz. Se puede observar amplitudes parecidas, ya que corresponde a una señal sin movimiento.
 <p align="center"><img src="https://i.postimg.cc/zBdLvCnf/Whats-App-Image-2023-04-05-at-7-52-40-PM.jpg" width="600" height="400"></p>
 
 La segunda prueba se realizó con la contraccion maxima del puño cerrado con una duración total de 81 segundos. Esto se puede observar en la grafica.
 </p>
-- Señal con picos máximos obtenidos del movimiento puño cerrado:
+- Señal con picos máximos obtenidos del movimiento puño cerrado: Se oberva picos más altos de amplitud cuando se da el movimiento del puño cerrado, en la cual las unidades motoras se activan con mayor frecuencia.
 <p align="center"><img src="https://i.postimg.cc/LsTN8WhF/Whats-App-Image-2023-04-05-at-7-34-03-PM.jpg" width="600" height="400"></p>
 </p>
 <p align="center"><img src="https://i.postimg.cc/VvM7mkCD/Whats-App-Image-2023-04-05-at-7-34-19-PM.jpg" width="600" height="400"></p>
