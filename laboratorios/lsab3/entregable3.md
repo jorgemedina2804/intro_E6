@@ -7,8 +7,9 @@
 3. [Resultados](#id3)\
      3.1 [Conexión usada](#id4)\
      3.2 [Video de la señal y Ploteo de la señal en OpenSignal](#id5)\
-     3.3 [Archivos](#id7)\
-     3.4 [Ploteo de la señal en Python](#id8)
+     3.3 [Resumen](#id6)\
+     3.4 [Archivos](#id7)\
+     3.5 [Ploteo de la señal en Python](#id8)
     
 ## **Objetivos** <a name="id1"></a>
 * Adquirir señales biomédicas de EMG de un grupo muscular especifico.
@@ -78,7 +79,7 @@ En el siguiente icono se encuentra el link del video de la prueba 2.
 </div>
 </p>  
 
-# **Resumen y explicación de la señal ploteada**
+## **Resumen y explicación de la señal ploteada** <a name="id6"></a>
 ## Técnica del estudio de conducción nerviosa motora del nervio mediano
 El siguiente es el procedimiento para el estudio de conducción nerviosa motora del nervio mediano 
 
