@@ -33,7 +33,7 @@
   
 * [Docentes del curso](https://github.com/MariaRejas/intro_E6/blob/main/README.md#docentes)
 
-* [Laboratorios] (https://github.com/MariaRejas/intro_E6/blob/main/README.md#laboratoios)
+* [Laboratorios] (https://github.com/MariaRejas/intro_E6/blob/main/README.md#laboratorios)
   
 * **Señal de interés:** electromiograma 
 
@@ -119,6 +119,6 @@ Como la señal emitida por el electromiograma está en el orden de los mV se tie
   -  Julissa Venancio - julissa.venancio@upch.pe
 
 ## Laboratorios
-  - [Laboratorio 3](https://github.com/MariaRejas/intro_E6/blob/main/README.md#docentes)
+  - [Laboratorio 3](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/lsab3/entregable3.md)
 ```python
 print("Hola, Biomédicos :D")
