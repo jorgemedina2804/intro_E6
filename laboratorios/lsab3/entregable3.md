@@ -10,23 +10,6 @@
      3.3 [Archivos](#id7)\
      3.4 [Ploteo de la señal en Python](#id8)
     
-# **Técnica del estudio de conducción nerviosa motora del nervio mediano**
-El siguiente es el procedimiento para el estudio de conducción nerviosa motora del nervio mediano 
-
-*Electrodos de registro*
-- Electrodo activo (G1): Colocar sobre el centro del músculo abductor corto del pulgar (ACP), un tercio de la distancia entre el pliegue carpo metacarpiano y la articulación metacarpo falángica del pulgar (1er dedo).
-- Electrodo de referencia (G2): Colocar sobre la articulación metacarpo falángico del primer dedo, distal al electrodo activo.
-- Electrodo tierra: Colocado en el dorso de la mano.
-
-*Electrodos de estímulo*
-- Distal: Colocar a nivel de la muñeca proximal al electrodo activo entre los tendones de los músculos flexores radiales del carpo y palmar mayor.
-- Proximal: Colocar sobre la arteria braquial (pulso braquial) en el codo, entre el tendón del músculo bíceps braquial y el epicóndilo medial.
-
- *Mediciones*
-- Distancias, latencias y amplitudes de todos los lugares (distal y proximal) evaluados.
-- Velocidad de conducción entre la muñeca y el codo.
-
-
 ## **Objetivos** <a name="id1"></a>
 * Adquirir señales biomédicas de EMG de un grupo muscular especifico.
 * Hacer una correcta configuración de BiTalino.
@@ -93,10 +76,32 @@ En el siguiente icono se encuentra el link del video de la prueba 2.
 [<img src="https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png" width="20%" height="20%">](https://youtu.be/yfaGtikDpqY)
 
 </div>
+# **Resumen y explicación de la señal ploteada**
+# **Técnica del estudio de conducción nerviosa motora del nervio mediano**
+El siguiente es el procedimiento para el estudio de conducción nerviosa motora del nervio mediano 
+
+*Electrodos de registro*
+- Electrodo activo (G1): Colocar sobre el centro del músculo abductor corto del pulgar (ACP), un tercio de la distancia entre el pliegue carpo metacarpiano y la articulación metacarpo falángica del pulgar (1er dedo).
+- Electrodo de referencia (G2): Colocar sobre la articulación metacarpo falángico del primer dedo, distal al electrodo activo.
+- Electrodo tierra: Colocado en el dorso de la mano.
+
+*Electrodos de estímulo*
+- Distal: Colocar a nivel de la muñeca proximal al electrodo activo entre los tendones de los músculos flexores radiales del carpo y palmar mayor.
+- Proximal: Colocar sobre la arteria braquial (pulso braquial) en el codo, entre el tendón del músculo bíceps braquial y el epicóndilo medial.
+
+ *Mediciones*
+- Distancias, latencias y amplitudes de todos los lugares (distal y proximal) evaluados.
+- Velocidad de conducción entre la muñeca y el codo.
+
+
+
+
 
 ### **Archivos** <a name="id7"></a>
 - [Documentos (.txt)](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/lsab3/Se%C3%B1al%20EMG%20Lab1.txt)
 - [Programa de ploteo en python](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/lsab3/se%C3%B1allab3.py)
+
+
 ### **Ploteo de la señal en Python** <a name="id8"></a>
 <p align="justify">
 La primera prueba se realizo en estado de reposo,la cual dura un total de X segundos.Esto se puede observar en la grafica
