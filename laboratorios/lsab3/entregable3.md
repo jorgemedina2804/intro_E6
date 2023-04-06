@@ -49,7 +49,7 @@ En la prueba 1 se tomo la señal de reposo del nervio mediano .<br>
 </p>
 <p align="center"><img src="https://i.postimg.cc/kMYzy0T1/Whats-App-Image-2023-04-05-at-12-04-45-PM.jpg" width="400" height="400"></p> 
 <p align="center"><img src="https://i.postimg.cc/bN2C9sDr/equipo-texto.png" width="500" height="500"></p>
-En la figura se observa el ploteo de la señal en reposo en Opensignal
+En la siguiente figura se observa el ploteo de la señal en reposo en Opensignal
 </p>
 <p align="center"><img src="https://i.postimg.cc/NFQfY5yx/estado-reposo.png" width="500" height="500"></p>
 <div align="center">
@@ -66,7 +66,7 @@ En el siguiente icono se encuentra el link del video de la prueba 1.
 En la prueba 2 se tomo la señal de  xxxxxxxxx <br>
 </p>
 <p align="center"><img src="https://i.postimg.cc/xThD3X0F/pu-o.png" width="400" height="300"></p>
-En la figura se observa el ploteo de la señal de conduccion nerviosa motora del nervio mediano durante el movimiento puño cerrado en Opensignal
+En la siguiente figura se observa el ploteo de la señal de conduccion nerviosa motora del nervio mediano durante el movimiento puño cerrado en Opensignal
 </p>
 <p align="center"><img src="https://i.postimg.cc/Gt4g4js3/se-al-completa.png" width="1000" height="300"></p>
 <div align="center">
