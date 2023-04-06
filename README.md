@@ -18,15 +18,16 @@
 
 
 ## Tabla de contenidos:
+
 * [¿Qué es una bioseñal?](https://github.com/MariaRejas/intro_E6/blob/main/README.md#qu%C3%A9-es-una-biose%C3%B1al)
 
-* [Materiales](https://github.com/MariaRejas/intro_E6/blob/main/README.md#materiales)
+* [Contenido del curso](https://github.com/MariaRejas/intro_E6/blob/main/README.md#contenido-del-curso)
 
 * [Metodología](https://github.com/MariaRejas/intro_E6/blob/main/README.md#metodolog%C3%ADa)
 
 * [Temática del proyecto](https://github.com/MariaRejas/intro_E6/blob/main/README.md#tem%C3%A1tica-del-proyecto)
 
-* [Contenido del curso](https://github.com/MariaRejas/intro_E6/blob/main/README.md#contenido-del-curso)
+* [Materiales](https://github.com/MariaRejas/intro_E6/blob/main/README.md#materiales)
 
 * [Participantes](https://github.com/MariaRejas/intro_E6/blob/main/README.md#participantes)
   
@@ -44,9 +45,28 @@ Es aquella señal medida y controlada en los seres biológicos, de muy bajo pote
 </p>
 
 
+## Contenido del Curso
+El proyecto se desarrollará siguiendo las 4 unidades del curso:
+<p align="center">
+    <img width="500" height="700" src="https://upchlabib.com/wp-content/uploads/2023/03/contenidos-1.png">
+  </p>
+  
+  
+
+## Metodología
+
+## Temática del Proyecto
+<p align="justify">
+La obtención del electromiograma (EMG), se da por medio de un procedimiento de diagnóstico que evalua la salud de los músculos, tanto en reposo como en actividad, y las células nerviosas que los controlan. Para ello, se puede obtener la señal por un electrodo de aguja, que ingresa en el músculo a evaluar, o por parches de electrodos, que van en la superficie de la piel posicionados sobre el músculo de interés; siendo el último empleado para los fines académicos en el presente proyecto. 
+
+Como la señal emitida por el electromiograma está en el orden de los mV se tiene que amplificar, para posteriormente ser filtrada, eliminando el ruido, y así obtener la información deseada.
+</p>
+
+
+
 ## Materiales
-Los materiales a usar en el curso son:
 <div align="center">
+
 
 |   **Dispositivo**   | **Descripción** |  **Imagen**  |
 |:-------------------:|:---------------:|:------------:|
@@ -57,11 +77,7 @@ Los materiales a usar en el curso son:
 
 </div>
 
-## Metodología
 
-## Temática del Proyecto
-
-## Contenido del Curso
 
 ## Participantes
   - María Cristina Orihuela Flores: Estudiante de séptimo ciclo de Ingeniería Biomédica interesada en el área de Ingeniería de Tejidos y biomateriales (colaboradora) - maria.orihuela@upch.pe
