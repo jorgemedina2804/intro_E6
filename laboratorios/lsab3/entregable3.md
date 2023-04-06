@@ -111,10 +111,10 @@ La primera prueba se realizo en estado de reposo,la cual dura un total de X segu
 - Señal sin movimiento:
 <p align="center"><img src="/Imagenes/Bitalino/EMG_Python_dedo_contrafuerza.jpg" width="800" height="500"></p>
 
-La segunda prueba se realizó con la contraccion maxima del puño cerrado,la cual dura un total de X segundos.Esto se puede observar en la grafica
+La segunda prueba se realizó con la contraccion maxima del puño cerrado,la cual dura un total de 81 segundos.Esto se puede observar en la grafica
 </p>
 - Señal maxima obtenida del movimiento puño cerrado:
-<p align="center"><img src="/Imagenes/Bitalino/EMG_Python_biceps_contraccion.jpg" width="800" height="500"></p>
+<p align="center"><img src="https://i.postimg.cc/LsTN8WhF/Whats-App-Image-2023-04-05-at-7-34-03-PM.jpg" width="800" height="500"></p>
 
 
 
