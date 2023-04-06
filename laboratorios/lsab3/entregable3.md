@@ -64,7 +64,7 @@ En el siguiente icono se encuentra el link del video de la prueba 1.
 ### PRUEBA 2 <br>
 
 <p align="justify">
-En la prueba 2 se tomo la señal de  xxxxxxxxx <br>
+En la prueba 2 se tomo la señal de la conducción nerviosomotora del nervio mediano durante la contracción en forma de puño <br>
 </p>
 <p align="center"><img src="https://i.postimg.cc/xThD3X0F/pu-o.png" width="400" height="300"></p>
 En la siguiente figura se observa el ploteo de la señal de conduccion nerviosa motora del nervio mediano durante el movimiento puño cerrado en Opensignal
