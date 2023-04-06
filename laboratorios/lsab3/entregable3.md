@@ -48,11 +48,11 @@ El siguiente procedimiento consiste en colocar los electrodos EMG en el usuario 
 <p align="justify">
 En la prueba 1 se tomo la señal de reposo del nervio mediano .<br>
 </p>
-<p align="center"><img src="https://i.postimg.cc/kMYzy0T1/Whats-App-Image-2023-04-05-at-12-04-45-PM.jpg" width="400" height="400"></p> 
-<p align="center"><img src="https://i.postimg.cc/bN2C9sDr/equipo-texto.png" width="500" height="500"></p>
+<p align="center"><img src="https://i.postimg.cc/kMYzy0T1/Whats-App-Image-2023-04-05-at-12-04-45-PM.jpg" width="400" height="350"></p> 
+<p align="center"><img src="https://i.postimg.cc/bN2C9sDr/equipo-texto.png" width="400" height="266"></p>
 En la siguiente figura se observa el ploteo de la señal en reposo en Opensignal
 </p>
-<p align="center"><img src="https://i.postimg.cc/NFQfY5yx/estado-reposo.png" width="500" height="500"></p>
+<p align="center"><img src="https://i.postimg.cc/NFQfY5yx/estado-reposo.png" width="400" height="266"></p>
 <div align="center">
 En el siguiente icono se encuentra el link del video de la prueba 1.
 </p> 
@@ -66,10 +66,10 @@ En el siguiente icono se encuentra el link del video de la prueba 1.
 <p align="justify">
 En la prueba 2 se tomo la señal de la conducción nerviosomotora del nervio mediano durante la contracción en forma de puño <br>
 </p>
-<p align="center"><img src="https://i.postimg.cc/xThD3X0F/pu-o.png" width="400" height="300"></p>
+<p align="center"><img src="https://i.postimg.cc/xThD3X0F/pu-o.png" width="400" height="266"></p>
 En la siguiente figura se observa el ploteo de la señal de conduccion nerviosa motora del nervio mediano durante el movimiento puño cerrado en Opensignal
 </p>
-<p align="center"><img src="https://i.postimg.cc/Gt4g4js3/se-al-completa.png" width="1000" height="300"></p>
+<p align="center"><img src="https://i.postimg.cc/Gt4g4js3/se-al-completa.png" width="1000" height="266"></p>
 <div align="center">
 En el siguiente icono se encuentra el link del video de la prueba 2.
 </p>  
@@ -112,13 +112,13 @@ La primera prueba se realizo en estado de reposo,la cual dura un total de X segu
 - Señal sin movimiento:
 </p>
 Debido a que la señal era pequeña se amplió la imagen reduciendo la amplitud para observar mejor la señal.
-<p align="center"><img src="https://i.postimg.cc/zBdLvCnf/Whats-App-Image-2023-04-05-at-7-52-40-PM.jpg" width="800" height="500"></p>
+<p align="center"><img src="https://i.postimg.cc/zBdLvCnf/Whats-App-Image-2023-04-05-at-7-52-40-PM.jpg" width="600" height="400"></p>
 
 La segunda prueba se realizó con la contraccion maxima del puño cerrado con una duración total de 81 segundos. Esto se puede observar en la grafica.
 </p>
 - Señal con picos máximos obtenidos del movimiento puño cerrado:
-<p align="center"><img src="https://i.postimg.cc/LsTN8WhF/Whats-App-Image-2023-04-05-at-7-34-03-PM.jpg" width="800" height="500"></p>
+<p align="center"><img src="https://i.postimg.cc/LsTN8WhF/Whats-App-Image-2023-04-05-at-7-34-03-PM.jpg" width="600" height="400"></p>
 </p>
-<p align="center"><img src="https://i.postimg.cc/VvM7mkCD/Whats-App-Image-2023-04-05-at-7-34-19-PM.jpg" width="800" height="500"></p>
+<p align="center"><img src="https://i.postimg.cc/VvM7mkCD/Whats-App-Image-2023-04-05-at-7-34-19-PM.jpg" width="600" height="400"></p>
 
 
