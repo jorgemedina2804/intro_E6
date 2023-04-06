@@ -47,6 +47,8 @@ El siguiente procedimiento consiste en colocar los electrodos EMG en el usuario 
 
 <p align="justify">
 En la prueba 1 se tomo la señal de reposo del nervio mediano .<br>
+La primera imagen muestra el posicionamiento de los electrodos en uno de los participantes del grupo
+La segunda imagen muestra el posicionamiento de los electrodos que se tuvo como referencia
 </p>
 <p align="center"><img src="https://i.postimg.cc/kMYzy0T1/Whats-App-Image-2023-04-05-at-12-04-45-PM.jpg" width="400" height="350"></p> 
 <p align="center"><img src="https://i.postimg.cc/bN2C9sDr/equipo-texto.png" width="400" height="266"></p>
