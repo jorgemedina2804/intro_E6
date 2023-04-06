@@ -48,10 +48,12 @@ Es aquella señal medida y controlada en los seres biológicos, de muy bajo pote
 Los materiales a usar en el curso son:
 <div align="center">
 
-|  **Dispositivo**  | **Descripción** | **Imagen** |
-|:-----------------:|:---------------:|:----------:|
-| (R)EVOLUTION |   Kit BITalino  |       1      |
-|       -      |      Laptop     |       1      |
+|   **Dispositivo**   | **Descripción** |  **Imagen**  |
+|:-------------------:|:---------------:|:------------:|
+| Arduino nano 33 IoT | Es una placa de desarrollo de tamaño reducido que integra capacidades de conectividad inalámbrica, procesamiento de datos y sensores, diseñada para proyectos de Internet de las cosas (IoT), que requieren de baja potencia y alta eficiencia energética |<img width="200" height="150" src="https://i.postimg.cc/wMSnyzCJ/arduino-nano-33-iot.webp">|
+|       BITalino      | Es un kit de herramietnas de prototipado rápido para proyectos de salud y bienestar personal, Incluye sensores inalámbricos y una plataforma de software para adquirir, procesar y visualizar datos biomédicos |<img width="200" height="150" src="https://i.postimg.cc/VvLXqb8P/14022-01a.jpg">|
+|  Arduino TinyML Kit | Es un paquete de hardware y software que permite a ,os usuarios implementar aprendizaje automático en dispositivos pequeños y de bajo consumo de energía, utilizando la plataforma Arduino y Edge Impulse |<img width="200" height="150" src="https://i.postimg.cc/XYMp3yzN/AKX00028-00-default.jpg">|
+
 
 </div>
 
