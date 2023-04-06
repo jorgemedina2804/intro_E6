@@ -115,6 +115,7 @@ La segunda prueba se realizó con la contraccion maxima del puño cerrado,la cua
 </p>
 - Señal maxima obtenida del movimiento puño cerrado:
 <p align="center"><img src="https://i.postimg.cc/LsTN8WhF/Whats-App-Image-2023-04-05-at-7-34-03-PM.jpg" width="800" height="500"></p>
-
+</p>
+<p align="center"><img src="https://i.postimg.cc/VvM7mkCD/Whats-App-Image-2023-04-05-at-7-34-19-PM.jpg" width="800" height="500"></p>
 
 
