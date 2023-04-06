@@ -46,7 +46,14 @@ Es aquella señal medida y controlada en los seres biológicos, de muy bajo pote
 
 ## Materiales
 Los materiales a usar en el curso son:
+<div align="center">
 
+|  **Dispositivo**  | **Descripción** | **Imagen** |
+|:-----------------:|:---------------:|:----------:|
+| (R)EVOLUTION |   Kit BITalino  |       1      |
+|       -      |      Laptop     |       1      |
+
+</div>
 
 ## Metodología
 
