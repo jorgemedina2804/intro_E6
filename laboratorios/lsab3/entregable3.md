@@ -76,8 +76,10 @@ En el siguiente icono se encuentra el link del video de la prueba 2.
 [<img src="https://cdn.icon-icons.com/icons2/1713/PNG/512/iconfinder-videologoplayicon-3993847_112649.png" width="20%" height="20%">](https://youtu.be/yfaGtikDpqY)
 
 </div>
+</p>  
+
 # **Resumen y explicación de la señal ploteada**
-# **Técnica del estudio de conducción nerviosa motora del nervio mediano**
+## Técnica del estudio de conducción nerviosa motora del nervio mediano
 El siguiente es el procedimiento para el estudio de conducción nerviosa motora del nervio mediano 
 
 *Electrodos de registro*
