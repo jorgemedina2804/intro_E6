@@ -49,11 +49,27 @@ Se posicionaron los electrodos en base las guías mencionadas:
 <p align="center">Figura X. Conexión con el Bitalino.
      
 ### **Video de la señal** <a name="id6"></a>
-     a)   Estado basal
+#
+Estado basal
+     <div align="center">
+          <video src="https://user-images.githubusercontent.com/89707896/231572641-61aeebae-f397-4627-aebc-913bb9464915.mp4" width="400" />
+     </div>
 
-     b)   Manteniendo la respiración por 10 segundos
-     c)   Reposo basal
-     d)   Después de una actividad física
+Manteniendo la respiración por 10 segundos
+     <div align="center">
+          <video src="https://user-images.githubusercontent.com/89707896/231574043-44222491-d595-4d5a-9ac8-112adb20757c.mp4" width="400" />
+     </div>
+
+Reposo basal
+     <div align="center">
+          <video src="https://user-images.githubusercontent.com/89707896/231574106-c6608652-e7dd-4194-b84f-53ea09ec712c.mp4" width="400" />
+     </div>
+
+Después de una actividad física
+     <div align="center">
+          <video src="https://user-images.githubusercontent.com/89707896/231574355-354b84ab-f131-4c7e-962c-d6c0341358ed.mp4" width="400" />
+     </div>
+
 ### **Ploteo de la señal en OpenSignal** <a name="id7"></a>
 #
      a)   Estado basal
