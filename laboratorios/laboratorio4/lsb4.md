@@ -43,14 +43,14 @@ Los objetivos del laboratorio son:
 
 Se posicionaron los electrodos en base las guías mencionadas:
 <p align="center"><img src="https://user-images.githubusercontent.com/89707896/231556282-5514bddb-7edd-44c2-b25a-eff7b03f8c3e.png" width="500" height="200"></p>
-<p align="center">Figura X. Posición de los electrodos.
+<p align="center">Figura X. Posición de los electrodos según la guía.
 
 <p align="center"><img src="https://user-images.githubusercontent.com/89707896/231556405-814106b1-2997-4640-9138-44929aaa6f14.jpeg" width="400" height="400"></p>
 <p align="center">Figura X. Conexión con el Bitalino.
      
 ### **Video de la señal** <a name="id6"></a>
-#
      a)   Estado basal
+
      b)   Manteniendo la respiración por 10 segundos
      c)   Reposo basal
      d)   Después de una actividad física
