@@ -332,5 +332,4 @@ En este caso las frecuencia cardiacas de interés son la frecuencia cardiaca má
 6. S. Kurisu, K. Nitta, Y. Sumimoto, H. Ikenaga, K. Ishibashi, Y. Fukuda, and Y. Kihara, “Effects of deep inspiration on QRS axis, T-wave axis and frontal QRS-T angle in the routine electrocardiogram,” Heart and Vessels, vol. 34, no. 9, pp. 1519–1523, 2019. 
 7. G. P. Whyte and S. Sharma, Practical ECG for Exercise Science and Sports Medicine. Champaign, IL: Human Kinetics, 2010. 
 8.E. A. Rosas, Electrocardiografía Clínica. Ciudad de México: El Manual Moderno, 2017
-9.Guardado R. Vallín D., (2009, 2 de junio). Aplicación del Análisis Tiempo-Frecuencia en Electrocardiografía.
-https://laccei.org/LACCEI2009-Venezuela/Papers/IT117_GuardadoMedina.pdf
+9.Guardado R. Vallín D., (2009, 2 de junio). Aplicación del Análisis Tiempo-Frecuencia en Electrocardiografía.https://laccei.org/LACCEI2009-Venezuela/Papers/IT117_GuardadoMedina.pdf
