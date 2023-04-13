@@ -123,11 +123,22 @@ Después de una actividad física
 
      c)   Reposo basal
      
+![WhatsApp Image 2023-04-12 at 7 33 53 PM](https://user-images.githubusercontent.com/55772705/231618112-00da6811-468e-44a0-b59b-3a21ff3e670c.jpeg)
+
+
+  
      d)   Después de una actividad física
      
   ![WhatsApp Image 2023-04-12 at 12 25 26 PM](https://user-images.githubusercontent.com/55772705/231612958-916cd9ab-8c21-4a5a-b14c-873c48aaed8d.jpeg)
 
 ![WhatsApp Image 2023-04-12 at 12 41 58 PM](https://user-images.githubusercontent.com/55772705/231613142-dc8be0b0-f355-47f7-a7de-9e24b72ab6c3.jpeg)
+
+      e)simulacion
+      
+   
+![WhatsApp Image 2023-04-12 at 7 35 38 PM](https://user-images.githubusercontent.com/55772705/231618251-0bdaa1b1-8cef-4617-b91a-030c0d1a37d3.jpeg)
+
+
 
 ## **Conclusiones** <a name="id10"></a>
 ---
