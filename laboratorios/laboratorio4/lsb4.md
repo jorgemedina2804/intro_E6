@@ -44,10 +44,10 @@ Los objetivos del laboratorio son:
 
 Se posicionaron los electrodos en base las guías mencionadas:
 <p align="center"><img src="https://user-images.githubusercontent.com/89707896/231556282-5514bddb-7edd-44c2-b25a-eff7b03f8c3e.png" width="500" height="200"></p>
-<p align="center">Figura X. Posición de los electrodos según la guía.
+<p align="center">Figura 1. Posición de los electrodos según la guía.
 
 <p align="center"><img src="https://user-images.githubusercontent.com/89707896/231556405-814106b1-2997-4640-9138-44929aaa6f14.jpeg" width="400" height="400"></p>
-<p align="center">Figura X. Conexión con el Bitalino.
+<p align="center">Figura 2. Conexión con el Bitalino.
      
 ### **Video de la señal** <a name="id6"></a>
 #
@@ -77,23 +77,23 @@ Se posicionaron los electrodos en base las guías mencionadas:
      
    
 ![basal](https://user-images.githubusercontent.com/55772705/231611835-3ffa0a24-5e16-4ac8-97a3-a59e8c0362e2.PNG)
-
+<p align="center">Figura 3.Estado basal.
      b)   Manteniendo la respiración por 10 segundos
      
   
 ![res](https://user-images.githubusercontent.com/55772705/231611939-2b79e311-fdce-487c-83f6-f0a795c2cbdf.PNG)
 
-
+<p align="center">Figura 4.Manteniendo la respiración por 10 segundos.
      c)   Reposo basal
      
   ![WhatsApp Image 2023-04-12 at 1 09 27 PM](https://user-images.githubusercontent.com/55772705/231611469-d7964526-ec59-44d6-ac3c-6fef92f0ee56.jpeg)
-
+<p align="center">Figura 5.Reposo basal.
 
      d)   Después de una actividad física
      
 
 ![ejercicio](https://user-images.githubusercontent.com/55772705/231612030-69c201ca-2f29-4105-8a93-d0597b2e2084.PNG)
-
+<p align="center">Figura 6.Después de una actividad física.
      e)  Simulacion 
      
   
