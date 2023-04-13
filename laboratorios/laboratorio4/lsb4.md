@@ -127,11 +127,12 @@ Para la conexión electrodos al cuerpo utilizamos la guía proporcionada por el 
 ### **Conexión usada** <a name="id5"></a>
 #
 
+
 Se posicionaron los electrodos en base las guías mencionadas:
 <p align="center"><img src="https://user-images.githubusercontent.com/89707896/231556282-5514bddb-7edd-44c2-b25a-eff7b03f8c3e.png" width="500" height="200"></p>
 <p align="center">Figura 6. Posición de los electrodos según la guía.
 
-<p align="center"><img src="https://user-images.githubusercontent.com/89707896/231556405-814106b1-2997-4640-9138-44929aaa6f14.jpeg" width="400" height="400"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/55772705/231652569-8c111952-0d50-4b4b-83f3-a2abce33c01e.PNG" width="400" height="400"></p>
 <p align="center">Figura 7. Conexión con el Bitalino.
      
 ### **Videos de la señal** <a name="id6"></a>
