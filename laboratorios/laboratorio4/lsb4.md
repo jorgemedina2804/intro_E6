@@ -150,27 +150,27 @@ Se posicionaron los electrodos en base las guías mencionadas:
 <p align="center">
      <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231611835-3ffa0a24-5e16-4ac8-97a3-a59e8c0362e2.PNG">
 </p>
-<p align="center">Figura 8. Info [X]</p>     
+<p align="center">Figura 8. Info [Elaborado propia]</p>     
      
      b)   Manteniendo la respiración por 10 segundos
 <p align="center">
      <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231611939-2b79e311-fdce-487c-83f6-f0a795c2cbdf.PNG">
 </p>
-<p align="center">Figura 9. Info [X]</p>
+<p align="center">Figura 9. Info [Elaborado propia]</p>
 
      
      c)   Reposo basal
 <p align="center">
      <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231611469-d7964526-ec59-44d6-ac3c-6fef92f0ee56.jpeg">
 </p>
-<p align="center">Figura 10. Info [X]</p>
+<p align="center">Figura 10. Info [Elaborado propia]</p>
 
 
      d)   Después de una actividad física
 <p align="center">
      <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231612030-69c201ca-2f29-4105-8a93-d0597b2e2084.PNG">
 </p>
-<p align="center">Figura 11. Info [X]</p>
+<p align="center">Figura 11. Info [Elaborado propia]</p>
 
      
      e)  Simulacion 
@@ -198,39 +198,39 @@ Se posicionaron los electrodos en base las guías mencionadas:
 <p align="center">
      <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231612373-866789aa-8ddd-477b-8046-dcdd2fb0a006.jpeg">
 </p>
-<p align="center">Figura 12. Info [X]</p>    
+<p align="center">Figura 12. Info [Elaborado propia]</p>    
 
 
      b)   Manteniendo la respiración por 10 segundos
 <p align="center">
      <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231612494-7170cc27-7967-43cf-8a9a-4b9723d330b5.jpeg">
 </p>
-<p align="center">Figura 13. Info [X]</p>         
+<p align="center">Figura 13. Info [Elaborado propia]</p>         
 
 
      c)   Reposo basal
 <p align="center">
      <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231618112-00da6811-468e-44a0-b59b-3a21ff3e670c.jpeg">
 </p>
-<p align="center">Figura 14. Info [X]</p>    
+<p align="center">Figura 14. Info [Elaborado propia]</p>    
 
   
      d)   Después de una actividad física
 <p align="center">
      <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231612958-916cd9ab-8c21-4a5a-b14c-873c48aaed8d.jpeg">
 </p>
-<p align="center">Figura 15. Info [X]</p>  
+<p align="center">Figura 15. Info [Elaborado propia]</p>  
 
 <p align="center">
      <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231613142-dc8be0b0-f355-47f7-a7de-9e24b72ab6c3.jpeg">
 </p>
-<p align="center">Figura 16. Info [X]</p>  
+<p align="center">Figura 16. Info [Elaborado propia]</p>  
 
       e)simulacion
 <p align="center">
      <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231618251-0bdaa1b1-8cef-4617-b91a-030c0d1a37d3.jpeg">
 </p>
-<p align="center">Figura 17. Info [X]</p>  
+<p align="center">Figura 17. Info [Elaborado propiao]</p>  
 
 
 
