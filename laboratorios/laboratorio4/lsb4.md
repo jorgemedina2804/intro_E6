@@ -1,6 +1,8 @@
 # **LABORATORIO 4: – Uso de BiTalino para EMG y ECG**
 Realizado el 12 de abril de 2023
-
+<p align="center">
+     <img width="500" height="300" src="https://i0.wp.com/prevencionsaludproactiv.com/wp-content/uploads/2019/02/723563_orig.gif?resize=620%2C324&ssl=1">
+</p>
 
 # **Tabla de contenidos**
 1. [Introducción](#id0)
@@ -61,7 +63,7 @@ Los objetivos del laboratorio son:
 * Extraer la información de las señales ECG del software OpenSignals (r)evolution 
 
 
-## **Materiales y equipos** 
+## **Materiales y equipos** <a name="id2"></a>
 
 ---
 <div align="center">
