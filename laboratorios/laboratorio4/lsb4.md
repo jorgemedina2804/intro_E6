@@ -162,6 +162,7 @@ Figura X. Info [X]
 </div>
 
 ### **Archivos** <a name="id8"></a>
+Se encuentran en la carpeta del laboratorio 3.
 #
 ### **Ploteo de la señal en Python** <a name="id9"></a>
 #
