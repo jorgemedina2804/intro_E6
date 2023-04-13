@@ -54,6 +54,46 @@ Figura 2. Onda ECG con sus características generales [4]
 Para poder realizar estas mediciones, en el presente laboratorio, se empleó la placa de desarrollo BiTalino, la cual es una herramienta que permite registrar y analizar la actividad eléctrica de diversas zonas del cuerpo, entre ellas la del corazón, sin la necesidad de ser invasiva y permitiendo obtener resultados en tiempo real.
 </p>
 
+### ¿Cómo se interpreta el ECG?
+<p align="justify">
+Para ello evaluamos las ondas respecto a lo categorizado como normal:
+</p>
+- Verificación de onda P
+     - La deflección negativa es normalmente < 1mm
+     - La duración de la onda P debe ser menor o igual a 0.12 segundos
+     - La amplitud de la onda P debe ser < 0.25 mm en las derivaciones de las extremidades
+ <p align="center">
+     <img width="700" height="200" src="https://user-images.githubusercontent.com/89707896/231650199-b6f9eb24-ebb6-47c8-a5f1-4e44d4d1b342.png">
+</p>
+<p align="center">
+Figura 3. Onda P [4]
+</p>
+
+- Verificación del intervalo PR
+     - Intervalo normal: 0.12 a 0.22 segundos; el límite superior de referencia es de 0.20 segundos en adultos jóvenes
+     - Un intervalo prolongado (>0.22s) es compatible con un bloqueo AV de priemr grado
+     - Un intervalo acortado (<0.12s) indica presencia de una vía accesoria
+ <p align="center">
+     <img width="600" height="400" src="https://user-images.githubusercontent.com/89707896/231649284-d539ff9c-454f-40f7-8e34-6ebe87892adb.png">
+</p>
+<p align="center">
+Figura 4. Intervalo PR [4]
+</p>
+
+- Complejo QRS
+     - La prolongación del complejo implica que la despolarización ventricular es más lenta de lo normal (<0.12s),  por el contrario, si es mayor se considera un complejo anormalmente ancho, relacionado con enfermedades como:
+          - Bloqueo de rama del haz
+          - Hiperpotasemia
+          - Medicamentos (arrítmicos de clase I, antidepresivos tricíclicos, etc)
+          - Ritmo ventricular, ectopia ventricular y marcapasos con estimulación ventricular
+          - Preexcitación (síndrome de Wolf-Parkinson-White)
+          - Conducción ventricular aberrante
+ <p align="center">
+     <img width="600" height="400" src="https://user-images.githubusercontent.com/89707896/231650744-66bb11c3-ed7a-44ff-b08c-89250f45e1fc.png">
+</p>
+<p align="center">
+Figura 5. Complejo QRS [4]
+</p>
 
 ## **Objetivos** <a name="id1"></a>
 ---
@@ -68,19 +108,13 @@ Los objetivos del laboratorio son:
 ---
 <div align="center">
 
-|  **Modelo**  | **Descripción** | **Cantidad** |
+|  **Imagen**  | **Producto** | **Cantidad** |
 |:------------:|:---------------:|:------------:|
-| (R)EVOLUTION |   Kit BITalino  |       1      |
-|       -      |      Laptop     |       1      |
+| <img width="200" height="150" src="https://i.postimg.cc/VvLXqb8P/14022-01a.jpg"> |   Kit BITalino  |       1      |
+| <img width="200" height="150" src="https://i.postimg.cc/XNmdLX3Z/equipos.png"> |      Laptop     |       1      |
 
 </div>
 
-<p align="justify">
-<p align="center"><img src="https://i.postimg.cc/XNmdLX3Z/equipos.png" width="400" height="266"></p>
-</p>
-<p align="center">
-Figura 3. Materiales y equipos
-</p>
 
 
 ## **Procedimiento** <a name="id3"></a>
@@ -95,10 +129,10 @@ Para la conexión electrodos al cuerpo utilizamos la guía proporcionada por el 
 
 Se posicionaron los electrodos en base las guías mencionadas:
 <p align="center"><img src="https://user-images.githubusercontent.com/89707896/231556282-5514bddb-7edd-44c2-b25a-eff7b03f8c3e.png" width="500" height="200"></p>
-<p align="center">Figura 4. Posición de los electrodos según la guía.
+<p align="center">Figura 6. Posición de los electrodos según la guía.
 
 <p align="center"><img src="https://user-images.githubusercontent.com/89707896/231556405-814106b1-2997-4640-9138-44929aaa6f14.jpeg" width="400" height="400"></p>
-<p align="center">Figura 5. Conexión con el Bitalino.
+<p align="center">Figura 7. Conexión con el Bitalino.
      
 ### **Videos de la señal** <a name="id6"></a>
 #
@@ -120,7 +154,7 @@ Se posicionaron los electrodos en base las guías mencionadas:
      <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231611835-3ffa0a24-5e16-4ac8-97a3-a59e8c0362e2.PNG">
 </p>
 <p align="center">
-Figura 6. Ploteo de la señal en OpenSignal en estado basal
+Figura 8. Ploteo de la señal en OpenSignal en estado basal
 </p>     
      
      b)   Manteniendo la respiración por 10 segundos
@@ -128,7 +162,7 @@ Figura 6. Ploteo de la señal en OpenSignal en estado basal
      <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231611939-2b79e311-fdce-487c-83f6-f0a795c2cbdf.PNG">
 </p>
 <p align="center">
-Figura 7. Ploteo de la señal en OpenSignal manteniendo la respiración por 10 segundos
+Figura 9. Ploteo de la señal en OpenSignal manteniendo la respiración por 10 segundos
 </p>
 
      
@@ -137,7 +171,7 @@ Figura 7. Ploteo de la señal en OpenSignal manteniendo la respiración por 10 s
      <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231611469-d7964526-ec59-44d6-ac3c-6fef92f0ee56.jpeg">
 </p>
 <p align="center">
-Figura 8. Ploteo de la señal en OpenSignal en reposo basal
+Figura 10. Ploteo de la señal en OpenSignal en reposo basal
 </p>
 
 
@@ -146,23 +180,27 @@ Figura 8. Ploteo de la señal en OpenSignal en reposo basal
      <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231612030-69c201ca-2f29-4105-8a93-d0597b2e2084.PNG">
 </p>
 <p align="center">
-Figura 9. Ploteo de la señal en OpenSignal después de la actividad física
+Figura 11. Ploteo de la señal en OpenSignal después de la actividad física
 </p>
 
      
      e)  Simulacion 
-     
-  
 
-| Figura | Pasos de la simulación|
-| --- |  :---: |
-| ![WhatsApp Image 2023-04-12 at 1 10 23 PM](https://user-images.githubusercontent.com/55772705/231613380-bc4d1eea-9a53-4a95-bbf3-8b3c3bdf9f80.jpeg) | 1 |
-|  ![WhatsApp Image 2023-04-12 at 1 10 23 PM (1)](https://user-images.githubusercontent.com/55772705/231613426-d45de00e-70c8-4039-ac58-63dbafafc010.jpeg)| 2 |
-|![WhatsApp Image 2023-04-12 at 1 10 24 PM](https://user-images.githubusercontent.com/55772705/231613472-04e57e10-6166-4e07-8003-f49d39aedff1.jpeg)  | 3 |
-| ![WhatsApp Image 2023-04-12 at 1 10 24 PM (1)](https://user-images.githubusercontent.com/55772705/231613509-5cf80abe-d415-4e6e-a7e5-8639b53577d6.jpeg) | 4 |
-| ![WhatsApp Image 2023-04-12 at 1 10 24 PM (2)](https://user-images.githubusercontent.com/55772705/231613554-b43c19d7-3913-409f-a09c-b13a39376668.jpeg) | 5 |
-| ![WhatsApp Image 2023-04-12 at 1 10 24 PM (3)](https://user-images.githubusercontent.com/55772705/231613604-e7f6adeb-2bd4-42c0-a769-8ee06ff7e381.jpeg) | 6 |
+| Paso 1 | Paso 2 |
+| ------------ |  :------------------------------------: |
+| <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231613380-bc4d1eea-9a53-4a95-bbf3-8b3c3bdf9f80.jpeg"> | <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231613426-d45de00e-70c8-4039-ac58-63dbafafc010.jpeg"> |
 </div>
+
+| Paso 3 | Paso 4 |
+| ------------ |  :------------------------------------: |
+| <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231613472-04e57e10-6166-4e07-8003-f49d39aedff1.jpeg"> | <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231613509-5cf80abe-d415-4e6e-a7e5-8639b53577d6.jpeg"> |
+</div>
+
+| Paso 5 | Paso 6 |
+| ------------ |  :------------------------------------: |
+| <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231613554-b43c19d7-3913-409f-a09c-b13a39376668.jpeg"> | <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231613604-e7f6adeb-2bd4-42c0-a769-8ee06ff7e381.jpeg"> |
+</div>
+
 
 ### **Archivos** <a name="id8"></a>
 Se encuentran en la carpeta del laboratorio 3.
@@ -175,7 +213,7 @@ Se observa el complejo QRS el cual indica un tiempo corto de despolarización de
      <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231612373-866789aa-8ddd-477b-8046-dcdd2fb0a006.jpeg">
 </p>
 <p align="center">
-Figura 10. Ploteo de la señal en Python en estado basal
+Figura 12. Ploteo de la señal en Python en estado basal
 </p>    
 
 
@@ -186,7 +224,7 @@ La inspiración profunda puede generar cambios tanto en la posición como en la 
      <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231612494-7170cc27-7967-43cf-8a9a-4b9723d330b5.jpeg">
 </p>
 <p align="center">
-Figura 11. Ploteo de la señal en Python manteniendo la respiración por 10 segundos
+Figura 13. Ploteo de la señal en Python manteniendo la respiración por 10 segundos
 </p>         
 
 
@@ -196,7 +234,7 @@ En la interpretación de la señal en el reposo basal tras la respiración se pu
      <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231618112-00da6811-468e-44a0-b59b-3a21ff3e670c.jpeg">
 </p>
 <p align="center">
-Figura 12. Ploteo de la señal en Python en reposo basal
+Figura 14. Ploteo de la señal en Python en reposo basal
 </p>     
 
   
@@ -206,14 +244,14 @@ El aumento de frecuencia cardiaca debido al ejercicio físico desencadena cambio
      <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231612958-916cd9ab-8c21-4a5a-b14c-873c48aaed8d.jpeg">
 </p>
 <p align="center">
-Figura 13. Ploteo de la señal en Python después de una actividad física
+Figura 15. Ploteo de la señal en Python después de una actividad física
 </p>
 
 <p align="center">
      <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231613142-dc8be0b0-f355-47f7-a7de-9e24b72ab6c3.jpeg">
 </p>
 <p align="center">
-Figura 14. Ploteo de la señal en Python después de una actividad física
+Figura 16. Ploteo de la señal en Python después de una actividad física
 </p>
 
       e)Simulacion
@@ -222,7 +260,7 @@ En la simulación del ejercicio son visibles la mayoría de segmentos y ondas de
      <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231618251-0bdaa1b1-8cef-4617-b91a-030c0d1a37d3.jpeg">
 </p>
 <p align="center">
-Figura 15. Ploteo de la simulación
+Figura 17. Ploteo de la simulación
 </p>
 
 
