@@ -99,6 +99,7 @@ Se posicionaron los electrodos en base las guías mencionadas:
      
   ![WhatsApp Image 2023-04-12 at 1 09 27 PM](https://user-images.githubusercontent.com/55772705/231611469-d7964526-ec59-44d6-ac3c-6fef92f0ee56.jpeg)
 <p align="center">Figura 5.Reposo basal.
+</div>
 
      d)   Después de una actividad física
      
