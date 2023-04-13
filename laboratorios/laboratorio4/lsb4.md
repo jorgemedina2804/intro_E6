@@ -93,6 +93,7 @@ Después de una actividad física
      
 
 ![ejercicio](https://user-images.githubusercontent.com/55772705/231612030-69c201ca-2f29-4105-8a93-d0597b2e2084.PNG)
+
      e)  Simulacion 
      
   
