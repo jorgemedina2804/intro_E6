@@ -1,5 +1,5 @@
-# **LABORATORIO 4: – USO DE BiTalino PARA EMG y ECG**
-Fecha: 12-04-2023
+# **LABORATORIO 4: – Uso de BiTalino para EMG y ECG**
+Realizado el 12 de abril de 2023
 
 
 # **Tabla de contenidos**
@@ -18,6 +18,12 @@ Fecha: 12-04-2023
 
 ## **Introducción al laboratorio** <a name="id0"></a>
 ---
+El electrocardiograma (ECG) es un procedimiento simple, indoloro y rápido que registra la actividad eléctrica que realiza el corazón. Para que la toma de las señales se de en las mejores condiciones posibles el paciente no debería hacer ejercicio ni tomar agua fría previo; ya que, ello puede generar datos erróneos, afectando la detección de anomalías, como:
+- Infarto al miocardio previo
+- Ritmo cardíaco anómalo (arritmia)
+- Aporte inadecuado de sangre y oxígeno al corazón (isquemia)
+Engrosamiento excesivo de las paredes del músculo del corazón (hipertrofia)
+
 
 ## **Objetivos** <a name="id1"></a>
 ---
@@ -30,18 +36,7 @@ Los objetivos del laboratorio son:
 ## **Materiales y equipos** 
 
 ---
-<div align="center">
 
-|  **Modelo**  | **Descripción** | **Cantidad** |
-|:------------:|:---------------:|:------------:|
-| (R)EVOLUTION |   Kit BITalino  |       1      |
-|       -      |      Laptop     |       1      |
-
-</div>
-
-<p align="justify">
-<p align="center"><img src="https://i.postimg.cc/XNmdLX3Z/equipos.png" width="400" height="266"></p>
-</p>
 
 ## **Procedimiento** <a name="id3"></a>
 
