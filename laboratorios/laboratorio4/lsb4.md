@@ -129,10 +129,6 @@ Respiración prolongada: Evaluar al mantener la respiración por 10 segundos y e
 Ejercicio intenso:Se realizo dintintos ejercicios por 5 minutos.
 
 
-
-
-
-
 ## **Resultados** <a name="id4"></a>
 ---
 
