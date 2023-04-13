@@ -100,10 +100,23 @@ Después de una actividad física
 ### **Ploteo de la señal en Python** <a name="id9"></a>
 #
      a)   Estado basal
+  ![WhatsApp Image 2023-04-12 at 12 28 37 PM](https://user-images.githubusercontent.com/55772705/231612373-866789aa-8ddd-477b-8046-dcdd2fb0a006.jpeg)
+
+
      b)   Manteniendo la respiración por 10 segundos
+     
+    
+![WhatsApp Image 2023-04-12 at 12 19 35 PM](https://user-images.githubusercontent.com/55772705/231612494-7170cc27-7967-43cf-8a9a-4b9723d330b5.jpeg)
+
+
      c)   Reposo basal
+     
      d)   Después de una actividad física
      
+  ![WhatsApp Image 2023-04-12 at 12 25 26 PM](https://user-images.githubusercontent.com/55772705/231612958-916cd9ab-8c21-4a5a-b14c-873c48aaed8d.jpeg)
+
+![WhatsApp Image 2023-04-12 at 12 41 58 PM](https://user-images.githubusercontent.com/55772705/231613142-dc8be0b0-f355-47f7-a7de-9e24b72ab6c3.jpeg)
+
 ## **Conclusiones** <a name="id10"></a>
 ---
 ## **Referencias** <a name="id11"></a>
