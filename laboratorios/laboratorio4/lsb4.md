@@ -106,7 +106,9 @@ Se posicionaron los electrodos en base las guías mencionadas:
 
 ![ejercicio](https://user-images.githubusercontent.com/55772705/231612030-69c201ca-2f29-4105-8a93-d0597b2e2084.PNG)
 <p align="center">Figura 6.Después de una actividad física.
-     </div>
+     
+</div>
+     
      e)  Simulacion 
      
   
