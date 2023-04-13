@@ -92,61 +92,60 @@ Los objetivos del laboratorio son:
 
 Se posicionaron los electrodos en base las guías mencionadas:
 <p align="center"><img src="https://user-images.githubusercontent.com/89707896/231556282-5514bddb-7edd-44c2-b25a-eff7b03f8c3e.png" width="500" height="200"></p>
-<p align="center">Figura 1. Posición de los electrodos según la guía.
+<p align="center">Figura X. Posición de los electrodos según la guía.
 
 <p align="center"><img src="https://user-images.githubusercontent.com/89707896/231556405-814106b1-2997-4640-9138-44929aaa6f14.jpeg" width="400" height="400"></p>
-<p align="center">Figura 2. Conexión con el Bitalino.
+<p align="center">Figura X. Conexión con el Bitalino.
      
-### **Video de la señal** <a name="id6"></a>
+### **Videos de la señal** <a name="id6"></a>
 #
-***Estado basal***
-     <div align="center">
-          <video src="https://user-images.githubusercontent.com/89707896/231572641-61aeebae-f397-4627-aebc-913bb9464915.mp4" width="400" />
-     </div>
+| Estado Basal | Mantener la respiración por 10 segundos |
+| ------------ |  :------------------------------------: |
+| <video src="https://user-images.githubusercontent.com/89707896/231572641-61aeebae-f397-4627-aebc-913bb9464915.mp4" width="200" /> | <video src="https://user-images.githubusercontent.com/89707896/231574043-44222491-d595-4d5a-9ac8-112adb20757c.mp4" width="200" /> |
+</div>
 
-***Manteniendo la respiración por 10 segundos***
-     <div align="center">
-          <video src="https://user-images.githubusercontent.com/89707896/231574043-44222491-d595-4d5a-9ac8-112adb20757c.mp4" width="400" />
-     </div>
+| Reposo Basal |     Después de una actividad física     |
+| ------------ |  :------------------------------------: |
+|<video src="https://user-images.githubusercontent.com/89707896/231574106-c6608652-e7dd-4194-b84f-53ea09ec712c.mp4" width="200"/> | <video src="https://user-images.githubusercontent.com/89707896/231574355-354b84ab-f131-4c7e-962c-d6c0341358ed.mp4" width="200" />  |
+</div>
 
-***Reposo basal***
-     <div align="center">
-          <video src="https://user-images.githubusercontent.com/89707896/231574106-c6608652-e7dd-4194-b84f-53ea09ec712c.mp4" width="400" />
-     </div>
-
-***Después de una actividad física***
-     <div align="center">
-          <video src="https://user-images.githubusercontent.com/89707896/231574355-354b84ab-f131-4c7e-962c-d6c0341358ed.mp4" width="400" />
-     </div>
 
 ### **Ploteo de la señal en OpenSignal** <a name="id7"></a>
 #
      a)   Estado basal
+<p align="center">
+     <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231611835-3ffa0a24-5e16-4ac8-97a3-a59e8c0362e2.PNG">
+</p>
+<p align="center">
+Figura X. Info [X]
+</p>     
      
-   
-![basal](https://user-images.githubusercontent.com/55772705/231611835-3ffa0a24-5e16-4ac8-97a3-a59e8c0362e2.PNG)
-<p align="center">Figura 3.Estado basal.
-     </div>
      b)   Manteniendo la respiración por 10 segundos
-     
-  
-![res](https://user-images.githubusercontent.com/55772705/231611939-2b79e311-fdce-487c-83f6-f0a795c2cbdf.PNG)
+<p align="center">
+     <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231611939-2b79e311-fdce-487c-83f6-f0a795c2cbdf.PNG">
+</p>
+<p align="center">
+Figura X. Info [X]
+</p>
 
-<p align="center">Figura 4.Manteniendo la respiración por 10 segundos.
-     </div>
-     c)   Reposo basal
      
-  ![WhatsApp Image 2023-04-12 at 1 09 27 PM](https://user-images.githubusercontent.com/55772705/231611469-d7964526-ec59-44d6-ac3c-6fef92f0ee56.jpeg)
-<p align="center">Figura 5.Reposo basal.
-</div>
+     c)   Reposo basal
+<p align="center">
+     <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231611469-d7964526-ec59-44d6-ac3c-6fef92f0ee56.jpeg">
+</p>
+<p align="center">
+Figura X. Info [X]
+</p>
+
 
      d)   Después de una actividad física
-     
+<p align="center">
+     <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231612030-69c201ca-2f29-4105-8a93-d0597b2e2084.PNG">
+</p>
+<p align="center">
+Figura X. Info [X]
+</p>
 
-![ejercicio](https://user-images.githubusercontent.com/55772705/231612030-69c201ca-2f29-4105-8a93-d0597b2e2084.PNG)
-<p align="center">Figura 6.Después de una actividad física.
-     
-</div>
      
      e)  Simulacion 
      
@@ -167,31 +166,54 @@ Se posicionaron los electrodos en base las guías mencionadas:
 ### **Ploteo de la señal en Python** <a name="id9"></a>
 #
      a)   Estado basal
-  ![WhatsApp Image 2023-04-12 at 12 28 37 PM](https://user-images.githubusercontent.com/55772705/231612373-866789aa-8ddd-477b-8046-dcdd2fb0a006.jpeg)
+<p align="center">
+     <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231612373-866789aa-8ddd-477b-8046-dcdd2fb0a006.jpeg">
+</p>
+<p align="center">
+Figura X. Info [X]
+</p>    
 
 
      b)   Manteniendo la respiración por 10 segundos
-     
-    
-![WhatsApp Image 2023-04-12 at 12 19 35 PM](https://user-images.githubusercontent.com/55772705/231612494-7170cc27-7967-43cf-8a9a-4b9723d330b5.jpeg)
+<p align="center">
+     <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231612494-7170cc27-7967-43cf-8a9a-4b9723d330b5.jpeg">
+</p>
+<p align="center">
+Figura X. Info [X]
+</p>         
 
 
      c)   Reposo basal
-     
-![WhatsApp Image 2023-04-12 at 7 33 53 PM](https://user-images.githubusercontent.com/55772705/231618112-00da6811-468e-44a0-b59b-3a21ff3e670c.jpeg)
-
+<p align="center">
+     <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231618112-00da6811-468e-44a0-b59b-3a21ff3e670c.jpeg">
+</p>
+<p align="center">
+Figura X. Info [X]
+</p>     
 
   
      d)   Después de una actividad física
-     
-  ![WhatsApp Image 2023-04-12 at 12 25 26 PM](https://user-images.githubusercontent.com/55772705/231612958-916cd9ab-8c21-4a5a-b14c-873c48aaed8d.jpeg)
+<p align="center">
+     <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231612958-916cd9ab-8c21-4a5a-b14c-873c48aaed8d.jpeg">
+</p>
+<p align="center">
+Figura X. Info [X]
+</p>
 
-![WhatsApp Image 2023-04-12 at 12 41 58 PM](https://user-images.githubusercontent.com/55772705/231613142-dc8be0b0-f355-47f7-a7de-9e24b72ab6c3.jpeg)
+<p align="center">
+     <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231613142-dc8be0b0-f355-47f7-a7de-9e24b72ab6c3.jpeg">
+</p>
+<p align="center">
+Figura X. Info [X]
+</p>
 
       e)simulacion
-      
-   
-![WhatsApp Image 2023-04-12 at 7 35 38 PM](https://user-images.githubusercontent.com/55772705/231618251-0bdaa1b1-8cef-4617-b91a-030c0d1a37d3.jpeg)
+<p align="center">
+     <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231618251-0bdaa1b1-8cef-4617-b91a-030c0d1a37d3.jpeg">
+</p>
+<p align="center">
+Figura X. Info [X]
+</p>
 
 
 
