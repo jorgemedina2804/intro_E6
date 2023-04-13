@@ -25,7 +25,7 @@ El electrocardiograma (ECG) es un procedimiento simple, indoloro y rápido que r
 - Infarto al miocardio previo
 - Ritmo cardíaco anómalo (arritmia)
 - Aporte inadecuado de sangre y oxígeno al corazón (isquemia)
-Engrosamiento excesivo de las paredes del músculo del corazón (hipertrofia)
+- Engrosamiento excesivo de las paredes del músculo del corazón (hipertrofia)
 
 
 ## **Objetivos** <a name="id1"></a>
