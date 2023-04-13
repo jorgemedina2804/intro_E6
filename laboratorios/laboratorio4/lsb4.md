@@ -68,20 +68,16 @@ Los objetivos del laboratorio son:
 ---
 <div align="center">
 
-|  **Modelo**  | **Descripción** | **Cantidad** |
+|  **Imagen**  | **Dispositivo** | **Cantidad** |
 |:------------:|:---------------:|:------------:|
-| (R)EVOLUTION |   Kit BITalino  |       1      |
-|       -      |      Laptop     |       1      |
-
+| <img width="200" height="100" src="https://i.postimg.cc/VvLXqb8P/14022-01a.jpg"> |   Kit BITalino  |       1      |
+| <img width="200" height="100" src="https://i.postimg.cc/XNmdLX3Z/equipos.png"> |      Laptop     |       1      |
 </div>
 
-<p align="justify">
-<p align="center"><img src="https://i.postimg.cc/XNmdLX3Z/equipos.png" width="400" height="266"></p>
-</p>
 
 
 ## **Procedimiento** <a name="id3"></a>
-Para la conexión electrodos al cuerpo utilizamos la guía proporcionada por el propio Bitalino de nombre: "BITalino HOME-GUIDE #2 ELECTROCARDIOGRAPHY (ECG) Exploring Cardiac Signals at the Skin Surface".
+
 
  
 ## **Resultados** <a name="id4"></a>
@@ -91,11 +87,10 @@ Para la conexión electrodos al cuerpo utilizamos la guía proporcionada por el 
 #
 
 Se posicionaron los electrodos en base las guías mencionadas:
-<p align="center"><img src="https://user-images.githubusercontent.com/89707896/231556282-5514bddb-7edd-44c2-b25a-eff7b03f8c3e.png" width="500" height="200"></p>
-<p align="center">Figura X. Posición de los electrodos según la guía.
-
-<p align="center"><img src="https://user-images.githubusercontent.com/89707896/231556405-814106b1-2997-4640-9138-44929aaa6f14.jpeg" width="400" height="400"></p>
-<p align="center">Figura X. Conexión con el Bitalino.
+<p align="center"><img src="https://user-images.githubusercontent.com/89707896/231556282-5514bddb-7edd-44c2-b25a-eff7b03f8c3e.png" width="300" height="200"></p>
+<p align="center">Figura X. Posición de los electrodos según la guía.    
+<p align="center"><img src="https://user-images.githubusercontent.com/89707896/231556405-814106b1-2997-4640-9138-44929aaa6f14.jpeg" width="300" height="300"></p>
+<p align="center">Figura X. Conexión con el Bitalino.</p>
      
 ### **Videos de la señal** <a name="id6"></a>
 #
@@ -148,17 +143,20 @@ Figura X. Info [X]
 
      
      e)  Simulacion 
+<div align="center">
      
-  
-
-| Figura | Pasos de la simulación|
+     
+| Paso 1 | Paso 2 |
 | --- |  :---: |
-| ![WhatsApp Image 2023-04-12 at 1 10 23 PM](https://user-images.githubusercontent.com/55772705/231613380-bc4d1eea-9a53-4a95-bbf3-8b3c3bdf9f80.jpeg) | 1 |
-|  ![WhatsApp Image 2023-04-12 at 1 10 23 PM (1)](https://user-images.githubusercontent.com/55772705/231613426-d45de00e-70c8-4039-ac58-63dbafafc010.jpeg)| 2 |
-|![WhatsApp Image 2023-04-12 at 1 10 24 PM](https://user-images.githubusercontent.com/55772705/231613472-04e57e10-6166-4e07-8003-f49d39aedff1.jpeg)  | 3 |
-| ![WhatsApp Image 2023-04-12 at 1 10 24 PM (1)](https://user-images.githubusercontent.com/55772705/231613509-5cf80abe-d415-4e6e-a7e5-8639b53577d6.jpeg) | 4 |
-| ![WhatsApp Image 2023-04-12 at 1 10 24 PM (2)](https://user-images.githubusercontent.com/55772705/231613554-b43c19d7-3913-409f-a09c-b13a39376668.jpeg) | 5 |
-| ![WhatsApp Image 2023-04-12 at 1 10 24 PM (3)](https://user-images.githubusercontent.com/55772705/231613604-e7f6adeb-2bd4-42c0-a769-8ee06ff7e381.jpeg) | 6 |
+| <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231613380-bc4d1eea-9a53-4a95-bbf3-8b3c3bdf9f80.jpeg"> | <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231613426-d45de00e-70c8-4039-ac58-63dbafafc010.jpeg"> |
+
+| Paso 3 | Paso 4 |
+| --- |  :---: |     
+| <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231613472-04e57e10-6166-4e07-8003-f49d39aedff1.jpeg"> | <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231613509-5cf80abe-d415-4e6e-a7e5-8639b53577d6.jpeg"> |
+     
+| Paso 5 | Paso 6 |
+| --- |  :---: |     
+| <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231613554-b43c19d7-3913-409f-a09c-b13a39376668.jpeg"> | <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231613604-e7f6adeb-2bd4-42c0-a769-8ee06ff7e381.jpeg"> |
 </div>
 
 ### **Archivos** <a name="id8"></a>
@@ -218,11 +216,7 @@ Figura X. Info [X]
 
 
 ## **Conclusiones** <a name="id10"></a>
--1) Estado de reposo: 
-Se puede observar que la grafica obtenida de la simulacion y la parte experimental son parecidas ,por lo que se estima que el rango del valor del la frecuencia cardiaca de la persona estudiada esta en el rango normal de 60 a 100 lpm,el cual es el valor de una persona sana.Asi mismo el desempeño de la tarea el ritmo cardiaco se regularizaba significativamente de acuerdo a los valores obtenidos en condiciones de reposo.
--2)Estado de respiracion profunda:
-.
-
+---
 ## **Referencias** <a name="id11"></a>
 ---
 1. Electrocardiograma. (2023, 28 de febrero). MedlinePlus. https://medlineplus.gov/spanish/pruebas-de-laboratorio/electrocardiograma/#:~:text=Un%20electrocardiograma%20(ECG)%20es%20un,circula%20a%20través%20de%20él.
