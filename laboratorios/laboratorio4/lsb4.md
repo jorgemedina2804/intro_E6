@@ -39,6 +39,18 @@ Los objetivos del laboratorio son:
 ## **Materiales y equipos** 
 
 ---
+<div align="center">
+
+|  **Modelo**  | **Descripción** | **Cantidad** |
+|:------------:|:---------------:|:------------:|
+| (R)EVOLUTION |   Kit BITalino  |       1      |
+|       -      |      Laptop     |       1      |
+
+</div>
+
+<p align="justify">
+<p align="center"><img src="https://i.postimg.cc/XNmdLX3Z/equipos.png" width="400" height="266"></p>
+</p>
 
 
 ## **Procedimiento** <a name="id3"></a>
