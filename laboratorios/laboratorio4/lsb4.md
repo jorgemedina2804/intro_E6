@@ -27,7 +27,8 @@ Los objetivos del laboratorio son:
 * Extraer la información de las señales ECG del software OpenSignals (r)evolution 
 
 
-## **Materiales y equipos** <a name="id2"></a>
+## **Materiales y equipos** <a name="id2"></a>![WhatsApp Image 2023-04-12 at 1 09 27 PM (1)](https://user-images.githubusercontent.com/55772705/231611496-085c95fc-c336-4c8c-b3c1-a5e303b896cb.jpeg)
+
 ---
 
 
@@ -73,10 +74,27 @@ Después de una actividad física
 ### **Ploteo de la señal en OpenSignal** <a name="id7"></a>
 #
      a)   Estado basal
+     
+   
+![basal](https://user-images.githubusercontent.com/55772705/231611835-3ffa0a24-5e16-4ac8-97a3-a59e8c0362e2.PNG)
+
      b)   Manteniendo la respiración por 10 segundos
+     
+  
+![res](https://user-images.githubusercontent.com/55772705/231611939-2b79e311-fdce-487c-83f6-f0a795c2cbdf.PNG)
+
+
      c)   Reposo basal
+     
+  ![WhatsApp Image 2023-04-12 at 1 09 27 PM](https://user-images.githubusercontent.com/55772705/231611469-d7964526-ec59-44d6-ac3c-6fef92f0ee56.jpeg)
+
+
      d)   Después de una actividad física
      
+
+![ejercicio](https://user-images.githubusercontent.com/55772705/231612030-69c201ca-2f29-4105-8a93-d0597b2e2084.PNG)
+
+
 ### **Archivos** <a name="id8"></a>
 #
 ### **Ploteo de la señal en Python** <a name="id9"></a>
