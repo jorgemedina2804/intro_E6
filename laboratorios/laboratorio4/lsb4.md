@@ -224,6 +224,13 @@ Se observa el complejo QRS el cual indica un tiempo corto de despolarización de
 <p align="center">
 Figura 12. Ploteo de la señal en Python en estado basal
 </p>    
+<p align="center">
+<img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231654224-cf1270e8-7896-4804-8997-df66e2c907c8.jpeg">
+</p>
+<p align="center">
+Figura 13. Ploteo de la señal en Python en estado basal FFT.
+</p> 
+     
 
 
      b)   Manteniendo la respiración por 10 segundos
@@ -233,9 +240,14 @@ La inspiración profunda puede generar cambios tanto en la posición como en la 
      <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231612494-7170cc27-7967-43cf-8a9a-4b9723d330b5.jpeg">
 </p>
 <p align="center">
-Figura 13. Ploteo de la señal en Python manteniendo la respiración por 10 segundos
-</p>         
-
+Figura 14. Ploteo de la señal en Python manteniendo la respiración por 10 segundos
+</p>           
+<p align="center">
+<img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231654465-896baf32-5ccf-4387-bcfe-8d5befcd8ab7.jpeg">
+</p>
+<p align="center">
+Figura 15. Ploteo de la señal en Python manteniendo la respiración por 10 segundos FFT.
+</p> 
 
      c)   Reposo basal
 En la interpretación de la señal en el reposo basal tras la respiración se puede observar una onda P superior al estado basal por lo que se puede deducir que en este caso existe una mayor despolarización auricular indicando mayor movimiento en estas cavidades debido a la recepción de sangre por parte del corazón. Posteriormente observamos una mayor amplitud entre los picos R y S dentro del complejo QRS lo que indicaría que existiría una mayor actividad en las ventriculas esto debido al mayor volumen de sangre que habían recibido las aurículas previamente antes de pasar por las válvulas. Por último, también son visibles las ondas T teniendo una alta actividad debido a la gran actividad llevada a cabo por los ventrículos previamente [5]  
@@ -243,9 +255,9 @@ En la interpretación de la señal en el reposo basal tras la respiración se pu
      <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231618112-00da6811-468e-44a0-b59b-3a21ff3e670c.jpeg">
 </p>
 <p align="center">
-Figura 14. Ploteo de la señal en Python en reposo basal
+Figura 16. Ploteo de la señal en Python en reposo basal
 </p>     
-
+     
   
      d)   Después de una actividad física
 El aumento de frecuencia cardiaca debido al ejercicio físico desencadena cambios en la señal ECG como una mayor amplitud de la onda Q, disminución del intervalo RR, ondas T altas y puntiagudas, superposición de ondas P y ondas T [7].
@@ -253,15 +265,24 @@ El aumento de frecuencia cardiaca debido al ejercicio físico desencadena cambio
      <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231612958-916cd9ab-8c21-4a5a-b14c-873c48aaed8d.jpeg">
 </p>
 <p align="center">
-Figura 15. Ploteo de la señal en Python después de una actividad física
+Figura 17. Ploteo de la señal en Python después de una actividad física
 </p>
 
 <p align="center">
      <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231613142-dc8be0b0-f355-47f7-a7de-9e24b72ab6c3.jpeg">
 </p>
 <p align="center">
-Figura 16. Ploteo de la señal en Python después de una actividad física
+Figura 18. Ploteo de la señal en Python después de una actividad física
 </p>
+   
+  
+<p align="center">
+<img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231654949-05231391-82a7-4dbd-87be-86b448262199.jpeg">
+</p>
+<p align="center">
+Figura 19. Ploteo de la señal en Python despues de una actividad física FFT.
+</p> 
+
 
       e)Simulacion
 En la simulación del ejercicio son visibles la mayoría de segmentos y ondas de los dos estados anteriores, sin embargo, en este es visible, además de la falta de ruido, existe una menor diferencia entre los picos R y el  S dentro del complejo QRS en comparación a los datos obtenidos de la voluntaria en cuyo caso la diferencia es mucho mayor. También se puede notar una bastante visible y prolongada, que va de acuerdo a los altos picos dentro del segmento QRS. [5]
@@ -269,9 +290,15 @@ En la simulación del ejercicio son visibles la mayoría de segmentos y ondas de
      <img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231618251-0bdaa1b1-8cef-4617-b91a-030c0d1a37d3.jpeg">
 </p>
 <p align="center">
-Figura 17. Ploteo de la simulación
+Figura 20. Ploteo de la simulación.
 </p>
 
+<p align="center">
+<img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231655079-c854059d-2adf-4521-9d37-49811f2a2b9b.jpeg">
+</p>
+<p align="center">
+Figura 21. Ploteo de la señal en Python de la simulación FFT.
+</p> 
 
 
 ## **Conclusiones** <a name="id10"></a>
