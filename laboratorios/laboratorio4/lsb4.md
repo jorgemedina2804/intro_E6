@@ -27,7 +27,7 @@ Los objetivos del laboratorio son:
 * Extraer la información de las señales ECG del software OpenSignals (r)evolution 
 
 
-## **Materiales y equipos** <a name="id2"></a>![WhatsApp Image 2023-04-12 at 1 09 27 PM (1)](https://user-images.githubusercontent.com/55772705/231611496-085c95fc-c336-4c8c-b3c1-a5e303b896cb.jpeg)
+## **Materiales y equipos** <a name="id2"></a>
 
 ---
 
