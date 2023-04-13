@@ -300,6 +300,16 @@ Figura 20. Ploteo de la simulación.
 Figura 21. Ploteo de la señal en Python de la simulación FFT.
 </p> 
 
+## Analisis de las gráficas FFT 
+Las gráficas de FFT obtenidas experimentalmente (estado de reposo, respiración profunda y post ejercicio) son muy similares entre sí. Sin embargo, al compararlas con el simulador se puede observar la diferencia en el rango inicial del espectro. Aproximadamente, entre 0-25 Hz. Se ha comprobado que esta respuesta a la frecuencia es la que se debería obtener al filtrar la señal de forma correcta. Artículos indican que la forma de la densidad espectral es similar. Como se puede observar en la tercera gráfica, en la que se realizó un estudio acerca de la fft de la señal ECG en la primera derivación (DI).
+
+<p align="center">
+<img width="500" height="300" src="https://user-images.githubusercontent.com/55772705/231656084-6ae8dd1b-83f4-4a09-a60f-dd0eefe56aad.PNG">
+</p>
+<p align="center">
+Figura 22. Representación de la densidad espectral de Potencia en DI [9].
+</p> 
+
 
 ## **Conclusiones** <a name="id10"></a>
 -1) Estado de reposo: 
@@ -322,3 +332,5 @@ En este caso las frecuencia cardiacas de interés son la frecuencia cardiaca má
 6. S. Kurisu, K. Nitta, Y. Sumimoto, H. Ikenaga, K. Ishibashi, Y. Fukuda, and Y. Kihara, “Effects of deep inspiration on QRS axis, T-wave axis and frontal QRS-T angle in the routine electrocardiogram,” Heart and Vessels, vol. 34, no. 9, pp. 1519–1523, 2019. 
 7. G. P. Whyte and S. Sharma, Practical ECG for Exercise Science and Sports Medicine. Champaign, IL: Human Kinetics, 2010. 
 8.E. A. Rosas, Electrocardiografía Clínica. Ciudad de México: El Manual Moderno, 2017
+9.Guardado R. Vallín D., (2009, 2 de junio). Aplicación del Análisis Tiempo-Frecuencia en Electrocardiografía.
+https://laccei.org/LACCEI2009-Venezuela/Papers/IT117_GuardadoMedina.pdf
