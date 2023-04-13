@@ -93,7 +93,20 @@ Después de una actividad física
      
 
 ![ejercicio](https://user-images.githubusercontent.com/55772705/231612030-69c201ca-2f29-4105-8a93-d0597b2e2084.PNG)
-
+     e)  Simulacion 
+     
+     -paso 1
+![WhatsApp Image 2023-04-12 at 1 10 23 PM](https://user-images.githubusercontent.com/55772705/231613380-bc4d1eea-9a53-4a95-bbf3-8b3c3bdf9f80.jpeg)
+     - paso 2
+     ![WhatsApp Image 2023-04-12 at 1 10 23 PM (1)](https://user-images.githubusercontent.com/55772705/231613426-d45de00e-70c8-4039-ac58-63dbafafc010.jpeg)
+      -paso 3
+      ![WhatsApp Image 2023-04-12 at 1 10 24 PM](https://user-images.githubusercontent.com/55772705/231613472-04e57e10-6166-4e07-8003-f49d39aedff1.jpeg)
+       -paso 4
+       ![WhatsApp Image 2023-04-12 at 1 10 24 PM (1)](https://user-images.githubusercontent.com/55772705/231613509-5cf80abe-d415-4e6e-a7e5-8639b53577d6.jpeg)
+       -paso 5
+       ![WhatsApp Image 2023-04-12 at 1 10 24 PM (2)](https://user-images.githubusercontent.com/55772705/231613554-b43c19d7-3913-409f-a09c-b13a39376668.jpeg)
+         -paso 6
+         ![WhatsApp Image 2023-04-12 at 1 10 24 PM (3)](https://user-images.githubusercontent.com/55772705/231613604-e7f6adeb-2bd4-42c0-a769-8ee06ff7e381.jpeg)
 
 ### **Archivos** <a name="id8"></a>
 #
