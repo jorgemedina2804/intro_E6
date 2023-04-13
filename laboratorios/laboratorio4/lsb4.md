@@ -141,7 +141,7 @@ Se posicionaron los electrodos en base las guías mencionadas:
 <p align="center">Figura 6. Posición de los electrodos según la guía.
 
 <p align="center"><img src="https://user-images.githubusercontent.com/55772705/231652569-8c111952-0d50-4b4b-83f3-a2abce33c01e.PNG" width="400" height="400"></p>
-<p align="center">Figura 7. Conexión con el Bitalino.
+<p align="center">Figura 7. Muestra una configuración del sensor de ECG BiTalino para la derivación I de Einthoven..
      
 ### **Videos de la señal** <a name="id6"></a>
 #
