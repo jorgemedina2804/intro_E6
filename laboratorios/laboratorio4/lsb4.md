@@ -21,18 +21,18 @@ Realizado el 12 de abril de 2023
 ## **Introducción al laboratorio** <a name="id0"></a>
 ---
 <p align="justify">
-El electrocardiograma (ECG) es un procedimiento simple, indoloro y rápido que registra la actividad eléctrica que realiza el corazón. Para que la toma de las señales se de en las mejores condiciones posibles el paciente no debería hacer ejercicio ni tomar agua fría previo; ya que, ello puede generar datos erróneos, afectando la detección de anomalías, como:
+El electrocardiograma (ECG) es un procedimiento simple, indoloro y rápido que registra la actividad eléctrica que realiza el corazón. [1] Para que la toma de las señales se de en las mejores condiciones posibles el paciente no debería hacer ejercicio ni tomar agua fría previo; ya que, ello puede generar datos erróneos [2], afectando la detección de anomalías, como:
 </p>
 
 - Infarto al miocardio previo
 - Ritmo cardíaco anómalo (arritmia)
 - Aporte inadecuado de sangre y oxígeno al corazón (isquemia)
-- Engrosamiento excesivo de las paredes del músculo del corazón (hipertrofia)
+- Engrosamiento excesivo de las paredes del músculo del corazón (hipertrofia) [1]
 <p align="center">
      <img width="500" height="300" src="https://user-images.githubusercontent.com/89707896/231624436-12893b5c-e62a-44d9-b5b8-714867acc55d.png">
 </p>
 <p align="center">
-Figura 1. ECG con anomalías
+Figura 1. ECG con anomalías [3]
 </p>
 
 <p align="justify">
@@ -41,13 +41,13 @@ Como se aprecia a la derecha la señal está conformada por ondas con picos, los
 
 - Onda P: Representa la despolarización auricular.
 - <p align="justify"> Intervalo QRS: Este conjunto de ondas representan la despolarización ventricular, donde la onda Q corresponde a la despolarización del tabique intraventricular; la R refleja la despolarización con la masa principal de los ventrículos; y la onda S muestra la despolarización final de los ventrículos, en la base del corazón.</p>
-- Onda T: Representa la repolarización ventricular.
+- Onda T: Representa la repolarización ventricular. [4]
 
 <p align="center">
      <img width="600" height="400" src="https://user-images.githubusercontent.com/89707896/231624484-29bb445b-f900-44dc-813e-313048c5e51c.png">
 </p>
 <p align="center">
-Figura 2. Onda ECG con sus características generales
+Figura 2. Onda ECG con sus características generales [4]
 </p>
 
 <p align="justify">
@@ -199,4 +199,7 @@ Se posicionaron los electrodos en base las guías mencionadas:
 ---
 ## **Referencias** <a name="id11"></a>
 ---
-
+1. Electrocardiograma. (2023, 28 de febrero). MedlinePlus. https://medlineplus.gov/spanish/pruebas-de-laboratorio/electrocardiograma/#:~:text=Un%20electrocardiograma%20(ECG)%20es%20un,circula%20a%20través%20de%20él.
+2. Electrocardiograma: MedlinePlus enciclopedia mÃ©dica. (2022, 5 de agosto). MedlinePlus - Health Information from the National Library of Medicine. https://medlineplus.gov/spanish/ency/article/003868.htm#:~:text=No%20haga%20ejercicio%20ni%20tome,acciones%20pueden%20causar%20resultados%20falsos.
+3. Cascino, T., & Shea, M. J. (2021, 6 de julio). Electrocardiografía - Trastornos del corazón y los vasos sanguíneos - Manual MSD versión para público general. Manual MSD versión para público general. https://www.msdmanuals.com/es-es/hogar/trastornos-del-corazón-y-los-vasos-sanguíneos/diagnóstico-de-las-enfermedades-cardiovasculares/electrocardiografía#:~:text=En%20un%20ECG%20pueden%20observarse,las%20pareces%20del%20músculo%20cardíaco.
+4. ECG interpretation: Characteristics of the normal ECG (P-wave, QRS complex, ST segment, T-wave). (2019). ECG & ECHO. https://ecgwaves.com/topic/ecg-normal-p-wave-qrs-complex-st-segment-t-wave-j-point/
