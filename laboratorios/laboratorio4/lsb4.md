@@ -81,7 +81,7 @@ Los objetivos del laboratorio son:
 
 
 ## **Procedimiento** <a name="id3"></a>
-
+Para la conexión electrodos al cuerpo utilizamos la guía proporcionada por el propio Bitalino de nombre: "BITalino HOME-GUIDE #2 ELECTROCARDIOGRAPHY (ECG) Exploring Cardiac Signals at the Skin Surface".
 
  
 ## **Resultados** <a name="id4"></a>
