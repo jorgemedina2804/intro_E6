@@ -26,6 +26,31 @@ El electrocardiograma (ECG) es un procedimiento simple, indoloro y rápido que r
 - Ritmo cardíaco anómalo (arritmia)
 - Aporte inadecuado de sangre y oxígeno al corazón (isquemia)
 - Engrosamiento excesivo de las paredes del músculo del corazón (hipertrofia)
+<p align="center">
+     <img width="500" height="300" src="https://user-images.githubusercontent.com/89707896/231624436-12893b5c-e62a-44d9-b5b8-714867acc55d.png">
+</p>
+<p align="center">
+Figura 1. ECG con anomalías
+</p>
+
+<p align="justify">
+Como se aprecia a la derecha la señal está conformada por ondas con picos, los cuales presentan 3 segmentos:
+</p>
+
+- Onda P: Representa la despolarización auricular.
+- <p align="justify"> Intervalo QRS: Este conjunto de ondas representan la despolarización ventricular, donde la onda Q corresponde a la despolarización del tabique intraventricular; la R refleja la despolarización con la masa principal de los ventrículos; y la onda S muestra la despolarización final de los ventrículos, en la base del corazón.</p>
+- Onda T: Representa la repolarización ventricular.
+
+<p align="center">
+     <img width="600" height="400" src="https://user-images.githubusercontent.com/89707896/231624484-29bb445b-f900-44dc-813e-313048c5e51c.png">
+</p>
+<p align="center">
+Figura 2. Onda ECG con sus características generales
+</p>
+
+<p align="justify">
+Para poder realizar estas mediciones, en el presente laboratorio, se empleó la placa de desarrollo BiTalino, la cual es una herramienta que permite registrar y analizar la actividad eléctrica de diversas zonas del cuerpo, entre ellas la del corazón, sin la necesidad de ser invasiva y permitiendo obtener resultados en tiempo real.
+</p>
 
 
 ## **Objetivos** <a name="id1"></a>
