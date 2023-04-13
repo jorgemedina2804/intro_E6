@@ -18,7 +18,10 @@ Realizado el 12 de abril de 2023
 
 ## **Introducción al laboratorio** <a name="id0"></a>
 ---
+<p align="justify">
 El electrocardiograma (ECG) es un procedimiento simple, indoloro y rápido que registra la actividad eléctrica que realiza el corazón. Para que la toma de las señales se de en las mejores condiciones posibles el paciente no debería hacer ejercicio ni tomar agua fría previo; ya que, ello puede generar datos erróneos, afectando la detección de anomalías, como:
+</p>
+
 - Infarto al miocardio previo
 - Ritmo cardíaco anómalo (arritmia)
 - Aporte inadecuado de sangre y oxígeno al corazón (isquemia)
@@ -84,30 +87,22 @@ Se posicionaron los electrodos en base las guías mencionadas:
    
 ![basal](https://user-images.githubusercontent.com/55772705/231611835-3ffa0a24-5e16-4ac8-97a3-a59e8c0362e2.PNG)
 <p align="center">Figura 3.Estado basal.
-     </div>
-
      b)   Manteniendo la respiración por 10 segundos
      
   
 ![res](https://user-images.githubusercontent.com/55772705/231611939-2b79e311-fdce-487c-83f6-f0a795c2cbdf.PNG)
 
 <p align="center">Figura 4.Manteniendo la respiración por 10 segundos.
-     </div>
-
      c)   Reposo basal
      
   ![WhatsApp Image 2023-04-12 at 1 09 27 PM](https://user-images.githubusercontent.com/55772705/231611469-d7964526-ec59-44d6-ac3c-6fef92f0ee56.jpeg)
 <p align="center">Figura 5.Reposo basal.
-     </div>
-
 
      d)   Después de una actividad física
      
 
 ![ejercicio](https://user-images.githubusercontent.com/55772705/231612030-69c201ca-2f29-4105-8a93-d0597b2e2084.PNG)
 <p align="center">Figura 6.Después de una actividad física.
-     </div>
-
      e)  Simulacion 
      
   
@@ -120,8 +115,6 @@ Se posicionaron los electrodos en base las guías mencionadas:
 | ![WhatsApp Image 2023-04-12 at 1 10 24 PM (1)](https://user-images.githubusercontent.com/55772705/231613509-5cf80abe-d415-4e6e-a7e5-8639b53577d6.jpeg) | 4 |
 | ![WhatsApp Image 2023-04-12 at 1 10 24 PM (2)](https://user-images.githubusercontent.com/55772705/231613554-b43c19d7-3913-409f-a09c-b13a39376668.jpeg) | 5 |
 | ![WhatsApp Image 2023-04-12 at 1 10 24 PM (3)](https://user-images.githubusercontent.com/55772705/231613604-e7f6adeb-2bd4-42c0-a769-8ee06ff7e381.jpeg) | 6 |
-</div>
-
 
 ### **Archivos** <a name="id8"></a>
 #
