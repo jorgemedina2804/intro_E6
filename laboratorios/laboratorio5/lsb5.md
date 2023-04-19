@@ -37,17 +37,24 @@ El encefalograma (EEG) es un estudio que evalúa la actividad eléctrica realiza
 - Encefalitis
 - Traumatismos [2]
 <p align="center">
-     <img width="500" height="300" src="https://user-images.githubusercontent.com/89707896/231624436-12893b5c-e62a-44d9-b5b8-714867acc55d.png">
+     <img width="500" height="300" src="https://user-images.githubusercontent.com/89707896/233177884-5f650a21-90bc-4509-9312-a1920c89cd09.png">
 </p>
 <p align="center">
-Figura 1. ECG con anomalías [3]
+Figura 1. EEG de una convulsión generalizada [3]
 </p>
 
 <p align="justify">
-Como se aprecia a la derecha la señal está conformada por ondas con picos, los cuales presentan 3 segmentos:
+Los nombres de los sitios de los electrodos utilizan abreviaturas alfabéticas que identifican el lóbulo o el área del cerebro de la que cada electrodo registra:
 </p>
 
-- Onda P: Representa la despolarización auricular.
+- F: Frontal
+- FP: Frontal anterrior
+- T: Temporal
+- C: Central
+- P: Parietal
+- O: Occipital
+- A: Oreja o apófisis mastoides
+- Z: Línea media
 - <p align="justify"> Intervalo QRS: Este conjunto de ondas representan la despolarización ventricular, donde la onda Q corresponde a la despolarización del tabique intraventricular; la R refleja la despolarización con la masa principal de los ventrículos; y la onda S muestra la despolarización final de los ventrículos, en la base del corazón.</p>
 - Onda T: Representa la repolarización ventricular. [4]
 
