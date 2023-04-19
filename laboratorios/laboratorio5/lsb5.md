@@ -65,10 +65,10 @@ Figura 2. Onda ECG con sus características generales [4]
 </p>
 
 <p align="justify">
-Para poder realizar estas mediciones, en el presente laboratorio, se empleó la placa de desarrollo BiTalino y el , la cual es una herramienta que permite registrar y analizar la actividad eléctrica de diversas zonas del cuerpo, entre ellas la del corazón, sin la necesidad de ser invasiva y permitiendo obtener resultados en tiempo real.
+Para poder realizar estas mediciones, en el presente laboratorio, se empleó la placa de desarrollo BiTalino y el Ultracortex EEG Headset, los cuales son herramientas que permiten registrar y analizar la actividad eléctrica de diversas zonas del cuerpo, entre ellas la del cerebro, sin la necesidad de ser invasiva y permitiendo obtener resultados en tiempo real.
 </p>
 
-### ¿Cómo se interpreta el ECG?
+### ¿Cómo se interpreta el EEG?
 <p align="justify">
 Para ello evaluamos las ondas respecto a lo categorizado como normal:
 </p>
