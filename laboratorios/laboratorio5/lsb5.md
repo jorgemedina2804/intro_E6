@@ -1,5 +1,5 @@
 # **LABORATORIO 5: – Uso de Ultracortex y BiTalino para EEG**``
-Realizado el 12 de abril de 2023
+Realizado el 19 de abril de 2023
 <p align="center">
      <img width="500" height="300" src="https://images.squarespace-cdn.com/content/v1/5f7b55a801226812a44f7180/1609441748072-S5NU5R5YSQF4LYBO7KZT/OpenBCI-WebXR-EEG.gif">
      <img width="500" height="300" src="https://user-images.githubusercontent.com/17307/31218894-586281e4-a9c4-11e7-81d8-bd6f3dfd4267.gif">
@@ -13,7 +13,7 @@ Realizado el 12 de abril de 2023
 5. [Resultados con BiTalino](#id4)\
      4.1 [Conexión usada](#id5)\
      4.2 [Video de la señal](#id6)\
-     4.3 [Ploteo de la señal en OpenSignal](#id7)\
+     4.3 [Ploteo de la señal en OpenSignal](#id7)\{{100
      4.4 [Archivos](#id8)\
      4.5 [Ploteo de la señal en Python](#id9)
 
@@ -160,14 +160,19 @@ Se posicionaron los electrodos en base las guías mencionadas:
      
 ### **Videos de la señal** <a name="id6"></a>
 #
-| Estado Basal | Mantener la respiración por 10 segundos |
+| Ojos cerrados | Ojos abiertos |
 | ------------ |  :------------------------------------: |
-| <video src="https://user-images.githubusercontent.com/89707896/231572641-61aeebae-f397-4627-aebc-913bb9464915.mp4" width="200" /> | <video src="https://user-images.githubusercontent.com/89707896/231574043-44222491-d595-4d5a-9ac8-112adb20757c.mp4" width="200" /> |
+| <video src="https://user-images.githubusercontent.com/89707896/233197727-682b0923-7b51-4526-8751-70370731e366.mp4" width="200" /> | <video src="https://user-images.githubusercontent.com/89707896/233197777-92d52158-9e99-42b4-be4b-fcc7c056249f.mp4" width="200" /> |
 </div>
 
-| Reposo Basal |     Después de una actividad física     |
+<div align="center">
+Ejercicio con luz
+<video src="https://user-images.githubusercontent.com/89707896/233197893-0dfe0211-f1a8-4637-9764-13d50fc77269.mp4" width="400"/>
+</div>
+
+| Ejercicio complejo |     Ejercicio problema matemático     |
 | ------------ |  :------------------------------------: |
-|<video src="https://user-images.githubusercontent.com/89707896/231574106-c6608652-e7dd-4194-b84f-53ea09ec712c.mp4" width="200"/> | <video src="https://user-images.githubusercontent.com/89707896/231574355-354b84ab-f131-4c7e-962c-d6c0341358ed.mp4" width="200" />  |
+|<video src="" width="200"/> | <video src="" width="200" />  |
 </div>
 
 
