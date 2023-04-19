@@ -1,4 +1,4 @@
-# **LABORATORIO 5: – Uso de Ultracortex y BiTalino para EEG**``
+# **LABORATORIO 5: – Uso de Ultracortex y BiTalino para EEG**
 Realizado el 19 de abril de 2023
 <p align="center">
      <img width="500" height="300" src="https://images.squarespace-cdn.com/content/v1/5f7b55a801226812a44f7180/1609441748072-S5NU5R5YSQF4LYBO7KZT/OpenBCI-WebXR-EEG.gif">
@@ -13,7 +13,7 @@ Realizado el 19 de abril de 2023
 5. [Resultados con BiTalino](#id4)\
      4.1 [Conexión usada](#id5)\
      4.2 [Video de la señal](#id6)\
-     4.3 [Ploteo de la señal en OpenSignal](#id7)\{{100
+     4.3 [Ploteo de la señal en OpenSignal](#id7)\
      4.4 [Archivos](#id8)\
      4.5 [Ploteo de la señal en Python](#id9)
 
