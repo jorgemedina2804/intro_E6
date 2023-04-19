@@ -1,7 +1,8 @@
 # **LABORATORIO 5: – Uso de Ultracortex y BiTalino para EEG**``
 Realizado el 12 de abril de 2023
 <p align="center">
-     <img width="500" height="300" src="https://i0.wp.com/prevencionsaludproactiv.com/wp-content/uploads/2019/02/723563_orig.gif?resize=620%2C324&ssl=1">
+     <img width="500" height="300" src="https://images.squarespace-cdn.com/content/v1/5f7b55a801226812a44f7180/1609441748072-S5NU5R5YSQF4LYBO7KZT/OpenBCI-WebXR-EEG.gif">
+     <img width="500" height="300" src="https://user-images.githubusercontent.com/17307/31218894-586281e4-a9c4-11e7-81d8-bd6f3dfd4267.gif">
 </p>
 
 # **Tabla de contenidos**
@@ -28,13 +29,13 @@ Realizado el 12 de abril de 2023
 ## **Introducción al laboratorio** <a name="id0"></a>
 ---
 <p align="justify">
-El electrocardiograma (ECG) es un procedimiento simple, indoloro y rápido que registra la actividad eléctrica que realiza el corazón. [1] Para que la toma de las señales se de en las mejores condiciones posibles el paciente no debería hacer ejercicio ni tomar agua fría previo; ya que, ello puede generar datos erróneos [2], afectando la detección de anomalías, como:
+El encefalograma (EEG) es un estudio que evalúa la actividad eléctrica realizada por el cerebro por medio de electrodos colocados sobre el cuero cabelludo. [1] Puede detectar alteraciones de todo el cerebro o de algunas áreas, tales como:
 </p>
 
-- Infarto al miocardio previo
-- Ritmo cardíaco anómalo (arritmia)
-- Aporte inadecuado de sangre y oxígeno al corazón (isquemia)
-- Engrosamiento excesivo de las paredes del músculo del corazón (hipertrofia) [1]
+- Tumores
+- Hemorragias
+- Encefalitis
+- Traumatismos [2]
 <p align="center">
      <img width="500" height="300" src="https://user-images.githubusercontent.com/89707896/231624436-12893b5c-e62a-44d9-b5b8-714867acc55d.png">
 </p>
