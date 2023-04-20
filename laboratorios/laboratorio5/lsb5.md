@@ -188,3 +188,46 @@ En este laboratorio se realizaron las siguientes:
 <p align="center">
 Figura 6.Lista de problemas para la última prueba.[12]
 </p>
+</p>
+
+## **Resultados con BiTalino** <a name="id5"></a>
+---
+### **Conexión usada** <a name="id6"></a>
+<p align="justify">
+Colocar su sensor BITalino EEG ensamblado es la posición FP2 en la frente (sobre su ojo derecho) y en la posición FP1  (sobre su ojo izquierdo) de acuerdo con el sistema internacional 10-20, vea la Figura 7. Usando esta configuración, puede medir la actividad de ondas beta ( nivel de pensamiento activo).ya que  en  la  región  prefrontal  se evidencian  cambios  en  el  EEG  relacionados  con  la  atención,orientación y razonamiento. [13]
+</p>
+<p align="center">
+     <img width="400" height="300" src="https://user-images.githubusercontent.com/89707896/233426112-afffa6fe-dc1b-4654-b55d-2b4624a41456.png">
+</p>
+<p align="center">
+Figura 7.Colocación de los electrodos positivo,negativo y de referencia de la guia bitalino. [11]
+</p>
+
+Se posicionaron los electrodos en base las guías mencionadas:
+<p align="center">
+     <img width="400" height="400" src="https://user-images.githubusercontent.com/89707896/233424011-2b687f7c-b9e4-4e21-8e84-8206a8eb5824.png">
+     <img width="400" height="400" src="https://user-images.githubusercontent.com/89707896/233424306-f8a4ce7a-634d-4ee5-b544-55a150708315.png">
+</p>
+<p align="center">
+Figura 8.Colocación de los electrodos positivo,negativo y de referencia en el participante según  la guía bitalino. [Elaboración propia]
+</p>
+</p>
+
+     
+### **Videos de la señal** <a name="id7"></a>
+---
+#
+| Ojos cerrados | Ojos abiertos |
+| ------------ |  :------------------------------------: |
+| <video src="https://user-images.githubusercontent.com/89707896/233197727-682b0923-7b51-4526-8751-70370731e366.mp4" width="200" /> | <video src="https://user-images.githubusercontent.com/89707896/233197777-92d52158-9e99-42b4-be4b-fcc7c056249f.mp4" width="200" /> |
+</div>
+
+<div align="center">
+Ejercicio con luz
+ <video src="https://user-images.githubusercontent.com/89707896/233197893-0dfe0211-f1a8-4637-9764-13d50fc77269.mp4">
+</p>
+
+| Ejercicio complejo |     Problema matemático     |
+| ------------ |  :------------------------------------: |
+|<video src="" width="200"/> | <video src="" width="200" />  |
+</div>
