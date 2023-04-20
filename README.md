@@ -121,5 +121,6 @@ Como la señal emitida por el electromiograma está en el orden de los mV se tie
 ## Laboratorios <a name="id1"></a>
   - [Laboratorio 3](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/lsab3/entregable3.md)
   - [Laboratorio 4](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/laboratorio4/lsb4.md)  
+  - [Laboratorio 5](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/laboratorio5/lsb5.md)
 ```python
 print("Hola, Biomédicos :D")
