@@ -26,10 +26,6 @@ a) Registro de ojos abiertos:
 <p align="center">
      <img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233435534-127743c3-b838-42a4-9e89-a6ecc3f1d1f3.png">
 </p>
-<p align="center">
-<img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233439133-4e5b1aa6-027c-4258-bbea-e636d4a65388.png">
-</p>
-
 Análisis:
 En este la señal oscila su amplitud entre 600 y 425.
 </p>
@@ -37,10 +33,6 @@ En este la señal oscila su amplitud entre 600 y 425.
 b) Registro de ojos cerrado:
 <p align="center">
      <img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233436145-77ea47c1-b1b0-41c0-8a16-e9290dcd5a55.png">
-</p>
-
-<p align="center">
-     <img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233439372-ab14d194-e4e2-4668-a8d4-749c7b9369cc.png">
 </p>
 Análisis:
 <p align="justify">
@@ -51,15 +43,16 @@ Los ritmos que destacan son principalmente los beta indicando una mayor activida
 </p>
 
 c) Registro de ojos con exposición a luz (linterna)
+<p align="center">
+     <img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233436743-12f53bdd-2ea8-4449-b317-1197f3d16200.png">
+</p>
+
 <p align="justify">
 Análisis:
 </p>
 
 <p align="justify">
 Las ondas que destacan son principalmente las Delta(0.2-4 Hz) pero también encontramos una alta actividad de ondas Alfa y de ondas Beta 1. La actividad de las ondas Delta indicaría una actividad cerebral similar al del tiempo de sueño, esto va acorde a la actividad, ya que al mantener los ojos cerrados se limitan el resto de estímulos y se induce a un estado similar a la del sueño. Sin embargo, la actividad de las ondas Alfa indicarían actividad en la región occipital en el cual  a pesar del reposo el cuerpo se encuentra en un estado de atención, esto va acorde a la actividad ya que el voluntario se encuentra expectante a cumplir los 30 segundos de la actividad.
-</p>
-<p align="center">
-     <img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233440545-7a638e07-4b30-491a-b5b3-cf2903a15524.png">
 </p>
 <p align="justify">
 En este caso las frecuencias destacan en los rangos de 0.2-4 Hz y de 12-15 Hz, sin embargo a comparación de los casos anteriores en donde la actividad era constante en este se sometió al voluntario a estímulos variables a lo largo del tiempo. Por ello la actividad en el rango de frecuencias de 15 hasta 25 alcanzan valores mínimos de magnitud. Sin embargo, estos vuelven a aumentar a los 30 Hz. Por lo tanto, las ondas mas destacadas en el ejercicio son la Delta y Beta 1 y 3. 
@@ -91,6 +84,9 @@ a) Registro de ojos abiertos:
      <img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233439133-4e5b1aa6-027c-4258-bbea-e636d4a65388.png">
 </p>
 b) Registro de ojos cerrado:
+<p align="center">
+     <img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233457335-b51bbe04-831c-4394-97a4-00148d1a14d1.png">
+</p>
 
 c) Registro de ojos con exposición a luz (linterna)
 <p align="justify">
@@ -105,6 +101,8 @@ Asimismo, en el ejercicio uno de los ojos se mantuvo tapado lo que explicaría l
 </p>
 
 d) Registro de memoria
+<p align="center">
+     <img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233457465-e8f7e81c-a47a-4474-a1ab-d3ae3a3e7343.png">
 </p>
 e) Registro de ejercicio
 <p align="center">
