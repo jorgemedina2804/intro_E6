@@ -133,7 +133,7 @@ Para la conexión electrodos al cuerpo utilizamos la guía proporcionada por el 
 
 Registro de la señal EEG: Se grabó la señal en 5 momentos
 - Bitalino: 
-     - Con los ojos cerrados
+     - Con los ojos cerrados por 30 segundos
      - Con los ojos abiertos
      - Con los ojos abiertos y luz
      - Tras realizar un ejercicio complejo
