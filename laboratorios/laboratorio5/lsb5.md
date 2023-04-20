@@ -58,10 +58,11 @@ Los nombres de los sitios de los electrodos utilizan abreviaturas alfabéticas q
 - <p align="justify"> TEXTO </p>
 
 <p align="center">
-     <img width="600" height="400" src="LINK IMAGEN">
+     <img width="600" height="400" src="https://user-images.githubusercontent.com/55772705/233378546-ed2d72b9-72af-4cd1-8bd6-ab432ce1daed.jpg">
+   
 </p>
 <p align="center">
-Figura 2. Onda ECG con sus características generales [4]
+Figura 2. Onda EEG con sus características generales [4]
 </p>
 
 <p align="justify">
