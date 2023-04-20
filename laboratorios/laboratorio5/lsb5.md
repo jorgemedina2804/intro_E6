@@ -5,7 +5,7 @@ Realizado el 19 de abril de 2023
      <img width="500" height="300" src="https://user-images.githubusercontent.com/17307/31218894-586281e4-a9c4-11e7-81d8-bd6f3dfd4267.gif">
 </p>
 
-# **Tabla de contenidos**
+# **Tabla de contenidos: Laboratorio 5 parte 1**
 1. [Introducción](#id0)
 2. [Encefalograma](#id1)
 3. [Objetivos](#id2)
@@ -13,19 +13,22 @@ Realizado el 19 de abril de 2023
 5. [Análisis de la señal EEG con BiTalino](#id4)\
      5.1 [Conexión usada](#id5)\
      5.2 [Procedimiento](#id6)\
-     5.3 [Videos de la señal](#id7)\
-     5.4 [Ploteo de la señal en Python](#id8)\
-     5.5 [Archivos](#id9)
+     5.3 [Videos de la señal](#id7)
 
-6. [Análisis de la señal EEG con Ultracortex](#id10)\
-     6.1 [Conexión usada](#id11)\
-     6.2 [Procedimiento](#id12)\
-     6.3 [Videos de la señal](#id13)\
-     6.4 [Ploteo de la señal en OpenBCI](#id14)\
-     6.5 [Ploteo de la señal en Python](#id15)\
-     6.5 [Archivos](#id16)
-7. [Conclusiones](#id17)
-8. [Referencias](#id18)
+# **Tabla de contenidos: Laboratorio 5 parte 2**
+[Laboratorio 5 parte 2](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/laboratorio5/lab5_parte2.md)</p>
+
+          5.4 Ploteo de la señal en Python
+          5.5 Archivos
+      6. Análisis de la señal EEG con Ultracortex
+          6.1 Conexión usada
+          6.2 Procedimiento
+          6.3 Videos de la señal
+          6.4 Ploteo de la señal en OpenBCI
+          6.5 Ploteo de la señal en Python
+          6.6 Archivos
+     7. Conclusiones
+     8. Referencias
 
 ## **Introducción al laboratorio** <a name="id0"></a>
 ---
@@ -111,7 +114,6 @@ Los objetivos del laboratorio son:
 
 
 ## **Materiales y equipos** <a name="id3"></a>
-
 ---
 <div align="center">
 
@@ -167,9 +169,6 @@ Tras realizar un problema matemático
 </div>
 
 <div align="center">
-Ejercicio con luz
- <video src="https://user-images.githubusercontent.com/89707896/233197893-0dfe0211-f1a8-4637-9764-13d50fc77269.mp4">
+Ejercicio con luz 
+     <video src="https://user-images.githubusercontent.com/89707896/233197893-0dfe0211-f1a8-4637-9764-13d50fc77269.mp4">
 </p>
-
-
-     
