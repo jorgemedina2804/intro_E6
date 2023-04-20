@@ -145,3 +145,46 @@ Registro de la señal EEG: Se grabó la señal en 5 momentos
      - Descanso de 30 segundos
      - Tras realizar un problema matemático
      - Tras realizar un ejercicio simple
+     
+### Adquisición y medición de señal EEG con OpenBCI
+Sensor EEG
+<p align="justify">
+Cuyo esquemático podemos ver la figura x,está diseñado con una configuración bipolar que le permite tomar como valor de referencia un electrodo para obtener la diferencia de señal entre esta y la tomada con otro electrodo,eliminando las señales sin importancia para el posterior procesado. [9] </p>
+<p align="center">
+     <img width="800" height="500" src="https://user-images.githubusercontent.com/89707896/233418088-fb835b67-191a-4213-892c-ae365f3fd1de.png">
+</p>
+<p align="center">
+Figura 4 .Ubicación del sensor EEG en la placa Bitalino[10].
+</p>
+
+
+### Protocolo de adquisición
+La adquisición por medio del sensor EEG y los electrodos
+<p align="justify">
+La adquisición de esta señal se hará mediante el cable de tres electrodos,el cual uno de ellos será tomado como tierra.Debido a esto,vamos a colocar el electrodo de toma de tierra en el hueso detrás de la oreja y los dos restantes en ambos lados de la cabeza,tal como se muestra en la figura X,cabe resaltar que es muy importante para la toma de esta señal estar muy relajado ya que ,sino la señal se satura debido a la gran ganancia que tiene este sensor. [9]
+</p>
+<p align="center">
+     <img width="400" height="300" src="https://user-images.githubusercontent.com/89707896/233419747-c0a71b2c-b120-4820-bcde-b9dd66fe984a.png">
+</p>
+<p align="center">
+Figura 5.Posicionamiento de los electrodos para la adquisición de la señal EEG según la guía Bitalino (r)evolution. [11]
+</p>
+
+La adquisición de datos mediante el software
+<p align="justify">
+La adquisición de los datos se da mediante el software OpenSignal ,el cual será conectado al equipo de Bitalino por vía bluetooth.Dentro del sistema se realizarán las especificaciones como el tipo de frecuencia a utilizar(1000Hz) y el canal que se activara (canal 4).Finalmente se iniciara con la toma de datos.
+En este laboratorio se realizaron las siguientes:
+- Registrar una línea base de señal con poco ruido y sin movimientos (respiración normal,sin movimientos oculares/ojos cerrados) durante 30 segundos.
+
+- Repetir un ciclo de OJOS ABIERTOS - OJOS CERRADOS cinco veces, manteniendo ambas fases durante cinco segundos.
+
+- Registre otra fase de referencia de 30 segundos.
+
+- Que uno de tus compañeros lea en voz alta una serie de ejercicios matemáticos y resuelva cada uno de ellos mentalmente enfocando tu mirada en un punto específico para evitar artefactos.
+</p>
+<p align="center">
+     <img width="1000" height="300" src="https://user-images.githubusercontent.com/89707896/233421138-b8e7e98a-5e46-4411-8a20-01abe463811a.png">
+</p>
+<p align="center">
+Figura 6.Lista de problemas para la última prueba.[12]
+</p>
