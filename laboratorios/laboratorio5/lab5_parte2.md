@@ -26,6 +26,9 @@ a) Registro de ojos abiertos:
 <p align="center">
      <img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233435534-127743c3-b838-42a4-9e89-a6ecc3f1d1f3.png">
 </p>
+<p align="center">
+     <img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233439133-4e5b1aa6-027c-4258-bbea-e636d4a65388.png">
+</p>
 Análisis:
 En este la señal oscila su amplitud entre 600 y 425.
 </p>
@@ -33,6 +36,9 @@ En este la señal oscila su amplitud entre 600 y 425.
 b) Registro de ojos cerrado:
 <p align="center">
      <img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233436145-77ea47c1-b1b0-41c0-8a16-e9290dcd5a55.png">
+</p>
+<p align="center">
+     <img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233457335-b51bbe04-831c-4394-97a4-00148d1a14d1.png">
 </p>
 Análisis:
 <p align="justify">
@@ -46,11 +52,12 @@ c) Registro de ojos con exposición a luz (linterna)
 <p align="center">
      <img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233436743-12f53bdd-2ea8-4449-b317-1197f3d16200.png">
 </p>
-
+<p align="center">
+     <img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233440545-7a638e07-4b30-491a-b5b3-cf2903a15524.png">
+</p>
 <p align="justify">
 Análisis:
 </p>
-
 <p align="justify">
 Las ondas que destacan son principalmente las Delta(0.2-4 Hz) pero también encontramos una alta actividad de ondas Alfa y de ondas Beta 1. La actividad de las ondas Delta indicaría una actividad cerebral similar al del tiempo de sueño, esto va acorde a la actividad, ya que al mantener los ojos cerrados se limitan el resto de estímulos y se induce a un estado similar a la del sueño. Sin embargo, la actividad de las ondas Alfa indicarían actividad en la región occipital en el cual  a pesar del reposo el cuerpo se encuentra en un estado de atención, esto va acorde a la actividad ya que el voluntario se encuentra expectante a cumplir los 30 segundos de la actividad.
 </p>
@@ -73,42 +80,15 @@ e) Registro de razonamiento de un problema matemático
 <p align="center">
      <img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233438470-38edfe1e-7f6b-4ab0-9307-37dd809a14c6.png">
 </p>
-<p align="justify">
-Análisis:
-En este caso la señal varía su amplitud entre 450 y 650 ciertos picos de 700 o superiores y valles menores a 300. 
-</p>
 
-### Análisis de las gráficas FFT
-a) Registro de ojos abiertos:
-<p align="center">
-     <img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233439133-4e5b1aa6-027c-4258-bbea-e636d4a65388.png">
-</p>
-b) Registro de ojos cerrado:
-<p align="center">
-     <img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233457335-b51bbe04-831c-4394-97a4-00148d1a14d1.png">
-</p>
-
-c) Registro de ojos con exposición a luz (linterna)
 <p align="justify">
-Las ondas que destacan son principalmente las Delta(0.2-4 Hz) pero también encontramos una alta actividad de ondas Alfa y de ondas Beta 1. La actividad de las ondas Delta indicaría una actividad cerebral similar al del tiempo de sueño, esto va acorde a la actividad, ya que al mantener los ojos cerrados se limitan el resto de estímulos y se induce a un estado similar a la del sueño. Sin embargo, la actividad de las ondas Alfa indicarían actividad en la región occipital en el cual  a pesar del reposo el cuerpo se encuentra en un estado de atención, esto va acorde a la actividad ya que el voluntario se encuentra expectante a cumplir los 30 segundos de la actividad.
-</p>
-<p align="center">
-     <img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233440545-7a638e07-4b30-491a-b5b3-cf2903a15524.png">
-</p>
-<p align="justify">
-En este caso las frecuencias destacan en los rangos de 0.2-4 Hz y de 12-15 Hz, sin embargo a comparación de los casos anteriores en donde la actividad era constante en este se sometió al voluntario a estímulos variables a lo largo del tiempo. Por ello la actividad en el rango de frecuencias de 15 hasta 25 alcanzan valores mínimos de magnitud. Sin embargo, estos vuelven a aumentar a los 30 Hz. Por lo tanto, las ondas mas destacadas en el ejercicio son la Delta y Beta 1 y 3. 
-Asimismo, en el ejercicio uno de los ojos se mantuvo tapado lo que explicaría la presencia de ondas Delta. Mientras que la información recibida desde el ojo abierto aumentaría la actividad frontal y parietal al estar sometido a un estado de excitación o ansiedad, este estado se vería representado por la luz de la linterna.
-</p>
-
-d) Registro de memoria
-<p align="center">
-     <img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233457465-e8f7e81c-a47a-4474-a1ab-d3ae3a3e7343.png">
-</p>
-e) Registro de ejercicio
 <p align="center">
      <img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233441116-6d0dc378-c755-4574-a05f-2dd79b3852f9.png">
 </p>
 <p align="justify">
+
+En este caso la señal varía su amplitud entre 450 y 650 ciertos picos de 700 o superiores y valles menores a 300. 
+</p>
 En el análisis por frecuencias encontramos una alta actividad en las frecuencias de 0.4-4 Hz y de 15 a 20 Hz lo que indicaría una mayor presencia de ondas delta y beta 2. La presencia de ondas beta 2 indicaría la alta actividad por parte del lóbulo frontal encargado de funciones cognitivas, al estar sometido a una tarea altamente compleja. Sin embargo, durante las experimentación el voluntario tampoco realizó el problema de forma completamente mental debido a que lo hizo hablando con voz alta. Asimismo, casi al final del ejercicio este fue interrumpido. A pesar de ello incluso en la gráfica Amplitud vs. Con el tiempo son visibles los picos de actividad debido a la pregunta compleja. 
 </p>
 
