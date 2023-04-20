@@ -180,7 +180,7 @@ Estudios previos han demostrado la ocurrencia  de  oscilaciones lentas (4Hz a 7 
 </p>
 
 ## **Referencias** <a name="id18"></a>
-----
+---
 1. Electroencefalografía (EEG) - Mayo Clinic. (2022, 19 de julio). Mayo Clinic - Mayo Clinic. https://www.mayoclinic.org/es-es/tests-procedures/eeg/about/pac-20393875#:~:text=Un%20electroencefalograma%20(EEG)%20es%20un,el%20tiempo,%20incluso%20mientras%20duermes.
 2. Clínica Universidad de Navarra. (s.f.). Clínica Universidad de Navarra | Centrados en el paciente. https://www.cun.es/enfermedades-tratamientos/pruebas-diagnosticas/electroencefalograma#:~:text=Puede%20detectar%20alteraciones%20de%20todo,metabólicas,%20infecciosas%20etc.).
 3. How to Read an EEG. (s.f.). Epilepsy Foundation. https://www.epilepsy.com/diagnosis/eeg/how-read
