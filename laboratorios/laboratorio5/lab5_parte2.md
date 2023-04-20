@@ -25,8 +25,6 @@ Realizado el 19 de abril de 2023
 a) Registro de ojos abiertos:
 <p align="center">
      <img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233435534-127743c3-b838-42a4-9e89-a6ecc3f1d1f3.png">
-</p>
-<p align="center">
      <img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233439133-4e5b1aa6-027c-4258-bbea-e636d4a65388.png">
 </p>
 Análisis:
@@ -36,8 +34,6 @@ En este la señal oscila su amplitud entre 600 y 425.
 b) Registro de ojos cerrado:
 <p align="center">
      <img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233436145-77ea47c1-b1b0-41c0-8a16-e9290dcd5a55.png">
-</p>
-<p align="center">
      <img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233457335-b51bbe04-831c-4394-97a4-00148d1a14d1.png">
 </p>
 Análisis:
@@ -51,8 +47,6 @@ Los ritmos que destacan son principalmente los beta indicando una mayor activida
 c) Registro de ojos con exposición a luz (linterna)
 <p align="center">
      <img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233436743-12f53bdd-2ea8-4449-b317-1197f3d16200.png">
-</p>
-<p align="center">
      <img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233440545-7a638e07-4b30-491a-b5b3-cf2903a15524.png">
 </p>
 <p align="justify">
@@ -79,10 +73,6 @@ En este la amplitud osciló entre 450 Y 600 con picos que superan los 650 .Mient
 e) Registro de razonamiento de un problema matemático
 <p align="center">
      <img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233438470-38edfe1e-7f6b-4ab0-9307-37dd809a14c6.png">
-</p>
-
-<p align="justify">
-<p align="center">
      <img width="500" height="400" src="https://user-images.githubusercontent.com/89707896/233441116-6d0dc378-c755-4574-a05f-2dd79b3852f9.png">
 </p>
 <p align="justify">
