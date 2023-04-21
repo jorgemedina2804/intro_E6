@@ -7,8 +7,10 @@ Realizado el 19 de abril de 2023
 
 # **Tabla de contenidos**
 [Laboratorio 5 parte 1](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/laboratorio5/lsb5.md)</p>
-  5.4 [Ploteo de la señal en Python](#id8)\
-  5.5 [Archivos](#id9)
+
+5. Análisis de la señal EEG con BiTalino\
+   5.4 [Ploteo de la señal en Python](#id8)\
+   5.5 [Archivos](#id9)
 
 6. [Análisis de la señal EEG con Ultracortex](#id10)\
   6.1 [Conexión usada](#id11)\
