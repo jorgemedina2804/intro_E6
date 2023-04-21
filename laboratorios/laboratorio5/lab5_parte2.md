@@ -109,7 +109,9 @@ Figura 9.Ubicación de los electrodos por colores [13].
 </p>
 
 <p align="center">
-     <img width="400" height="300" src="https://user-images.githubusercontent.com/89707896/233444811-fa8a818b-0f62-4931-ba6c-8960a7975086.png">
+     <img width="250" height="200" src="https://user-images.githubusercontent.com/89707896/233676279-73daf977-f8c3-48ac-b704-c278ebf8a9bb.jpeg">
+     <img width="250" height="200" src="https://user-images.githubusercontent.com/89707896/233676333-74a22680-21e1-4f9b-8ed7-1ec3e50cce09.jpeg">
+     <img width="250" height="200" src="https://user-images.githubusercontent.com/89707896/233676411-5cbc485f-706d-4985-a59a-0aea82ff6c89.jpeg">
 </p>
 <p align="center">
 Figura 10.Colocación de los electrodos en el participante según  el sistema 10-20. [Elaboración propia]
@@ -118,12 +120,12 @@ Figura 10.Colocación de los electrodos en el participante según  el sistema 10
 ## **Video de la señal** <a name="id13"></a>
 | Ojos cerrados (30 segundos) | Ojos abiertos y cerrados cada 5 segundos |
 | ------------ |  :------------------------------------: |
-| <video src="https://user-images.githubusercontent.com/89707896/233442308-de4777a2-3905-44e2-af35-e8746f135485.mp4" width="200" /> | <video src="https://user-images.githubusercontent.com/89707896/233442497-0aa75cf9-b259-4a4d-a311-e5f739a25960.mp4" width="200" /> |
+| <video src="https://user-images.githubusercontent.com/89707896/233675019-76a1d66c-2838-4e2a-88d4-9d079feb7924.mp4" width="200" /> | <video src="https://user-images.githubusercontent.com/89707896/233675136-332bb7ca-7135-46bc-baad-86459f931beb.mp4" width="200" /> |
 </div>
 
 | Problema matemático | Ejercicio simple |
 | ------------|  :------------------------------------: |
-| <video src="https://user-images.githubusercontent.com/89707896/233442765-5d02bcae-2369-440f-a0b1-012d3ee6a1c2.mp4" width="200" /> | <video src="https://user-images.githubusercontent.com/89707896/233442836-6cbd091a-8c92-460c-ad9c-0b920519a1a7.mp4" width="200" /> |
+|[![Alt text](https://user-images.githubusercontent.com/89707896/233679236-ffa95c49-1b5f-4ce8-aa9a-fc081d68bd91.png)](https://www.youtube.com/watch?v=R1aoqyflylQ)| <video src="https://user-images.githubusercontent.com/89707896/233675841-df32f803-5873-4b8d-9b2a-7d8b73eebed8.mp4" width="200" /> |
 </div>
 
 
