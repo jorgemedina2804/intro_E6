@@ -6,6 +6,7 @@ Realizado el 19 de abril de 2023
 </p>
 
 # **Tabla de contenidos**
+[Laboratorio 5 parte 1](https://github.com/MariaRejas/intro_E6/blob/main/laboratorios/laboratorio5/lsb5.md)</p>
   5.4 [Ploteo de la señal en Python](#id8)\
   5.5 [Archivos](#id9)
 
