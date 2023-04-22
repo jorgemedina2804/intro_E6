@@ -164,9 +164,17 @@ Figura 8.Colocación de los electrodos positivo,negativo y de referencia en el p
 
 </p>
 
-| Ojos cerrados | Ojos abiertos |
+
+
+
+
+
+
+
+
+| Ojos cerrados | Intervalos ojos abiertos-ojos cerrados |
 |:-------------:|:-------------:|
-| <video src="https://user-images.githubusercontent.com/89707896/233197727-682b0923-7b51-4526-8751-70370731e366.mp4" width="200" /> | <video src="https://user-images.githubusercontent.com/89707896/233197777-92d52158-9e99-42b4-be4b-fcc7c056249f.mp4" width="200" /> |
+| <video src="https://user-images.githubusercontent.com/111662394/233755149-ca95fd03-8fed-4bcd-a5cf-3a6d5161e62b.mp4" width="200" /> | <video src="https://user-images.githubusercontent.com/111662394/233755329-01a573d9-a7cf-456a-9b81-1598e929d6e0.mp4" width="200" /> |
 </div>
 
 | Ejercicio complejo |     Problema matemático     |
