@@ -99,6 +99,7 @@ Figura 3.Ondas cerebrales [7].
 Dependiendo de la configuración del montaje de los electrodos, se puede distinguir en tres tipologías diferentes: 
 
 Monopolar: Se registra la diferencia de potencial entre los electrodos ubicados en las zonas de interés y un electrodo de referencia. El electrodo de referencia generalmente se coloca en la oreja [8]. 
+
 Bipolar: Se sitúan los electrodos sobre las diferentes zonas de interés y se adquieren diferencias de potenciales entre estos puntos [8]. 
 
 Laplaciana: Al igual que la configuración monopolar, se adquieren las diferencias de potenciales entre los electrodos de interés, o activos, y un valor de referencia; sin embargo en este caso la referencia es el promedio de varios electrodos situados alrededor del electrodo activo [8]. 
