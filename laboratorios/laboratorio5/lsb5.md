@@ -150,12 +150,12 @@ Figura 8.Colocación de los electrodos positivo,negativo y de referencia en el p
 
 ### **Procedimiento** <a name="id6"></a>
 <p align="justify">
-Para el registro de la señal EEG se grabó la señal en 5 momentos:
-Con los ojos cerrados por 30 segundos
-Con los ojos abiertos
-Con los ojos abiertos y luz
-Tras realizar un ejercicio complejo
-Tras realizar un problema matemático
+* Para el registro de la señal EEG se grabó la señal en 5 momentos:
+* Con los ojos cerrados por 30 segundos
+* Con los ojos abiertos
+* Con los ojos abiertos y luz
+* Tras realizar un ejercicio complejo
+* Tras realizar un problema matemático
 </p>
 
 
