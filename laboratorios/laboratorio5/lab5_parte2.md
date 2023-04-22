@@ -111,7 +111,6 @@ Figura 10.Colocación de los electrodos en el participante según  el sistema 10
 </p>
 
 ## **Procedimiento** <a name="id12"></a>
---
 * Con los ojos cerrados
 * Con los ojos abiertos y cerrados cada 5 segundos
 * Descanso de 30 segundos
