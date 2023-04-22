@@ -92,13 +92,6 @@ Se encuentran en la carpeta del laboratorio 5.
 ## **Análisis de la señal EEG con Ultracortex** <a name="id10"></a>
 
 ## **Conexión usada** <a name="id11"></a>
-Ultracortex: 
-Con los ojos cerrados
-Con los ojos abiertos y cerrados cada 5 segundos
-Descanso de 30 segundos
-Tras realizar un problema matemático
-Tras realizar un ejercicio simple
-##**Procedimientos**<a name="id12"></a>
 <p align="justify">
 La colocación de los 16 electrodos está de acuerdo con la configuración del sistema 10-20,por lo cual la ubicación es la siguiente: AF3, AF4, F7, F3, F4, F8, T7, C3,C4, T8, P7, P3, P4, P8, O1, O2 como se indica con nodos coloreados en la Fig. 9.Así mismo los electrodos de referencia (barra de resistencia superficial - SRB) y de tierra (Bias) se colocaron en la oreja izquierda y derecha, respectivamente. Los headsets Mark IV de 16 canales funcionaron a una frecuencia de muestreo de 125 Hz.</p>
 <p align="center">
@@ -116,6 +109,14 @@ Figura 9.Ubicación de los electrodos por colores [13].
 <p align="center">
 Figura 10.Colocación de los electrodos en el participante según  el sistema 10-20. [Elaboración propia]
 </p>
+
+## **Procedimiento** <a name="id12"></a>
+---
+* Con los ojos cerrados
+* Con los ojos abiertos y cerrados cada 5 segundos
+* Descanso de 30 segundos
+* Tras realizar un problema matemático
+* Tras realizar un ejercicio simple
 
 ## **Video de la señal** <a name="id13"></a>
 | Ojos cerrados (30 segundos) | Ojos abiertos y cerrados cada 5 segundos |
